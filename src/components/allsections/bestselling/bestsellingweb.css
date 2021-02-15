@@ -1,0 +1,142 @@
+
+.besst-sellinng-com-webversion-main-sectionx {
+    margin-top: 14px;
+}
+.best-sellnng-wexv-dot-main-sec-bboxx-web-version {
+    border-radius: 7px;
+    padding: 0px;
+}
+.best-sellnng-wexv-dot-main-sec-bboxx-web-version a {
+    text-decoration: none;
+}
+.besst-sellinng-com-webversion-main-sectionx .container {
+    padding: 10px;
+}
+
+/* hhhh */
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+}
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn p {
+    position: relative;
+    margin-left: 3px;
+}
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn a {
+    position: absolute;
+    right: 28px;
+    top: 18px;
+    font-size: 14px;
+    color: #B4BACB;
+    font-weight: 500;
+    text-decoration: none;
+}
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn a:hover {
+    color: #FF6347;
+    transition: .2s;
+}
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn a:hover i.fa {
+    color: #fff;
+    transition: .2s;
+    background-color: #FF6347;;
+}
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn a i.fa {
+    color: #fff;
+    font-size: 11px;
+    background-color: #B4BACB;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 15px;
+}
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn {
+    margin-bottom: -15px !important;
+}
+
+
+.besstt-selling-dott-ccm-dealmmnnff-bb-web-verrsn p span img {
+    width: 40px;
+}
+/* hhhh */
+.row.besst-sellng-com-delproj-rww-webb-versnn .col-md-2 {
+    padding: 5px;
+}
+
+.row.besst-sellng-com-delproj-rww-webb-versnn {
+    margin: 0;
+    margin-top: -10px;
+}
+.besst-sellng-web-ddot-cmm-snnggl-prodct-web-vvesnn:hover {
+    transition: .3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+.besst-sellng-web-ddot-cmm-snnggl-prodct-web-vvesnn {
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    padding: 2px;
+}
+.besst-seellngg-ddot-cmm-snnggl-prodct-web-vvesnn-img img {
+    width: 100%;
+    height: 174px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.besst-seellngg-ddot-cmm-snnggl-prodct-web-vvesnn-img img:hover {
+    opacity: .70;
+    transition: .2s;
+}
+.besst-seelng-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt h3 {
+    font-size: 15px;
+    color: #FF6347;
+    font-weight: 600;
+}
+
+.besst-seelng-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt p {
+    font-size: 12px;
+    color: #9A9FAD;
+    line-height: 17px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+}
+.besst-seelng-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    padding: 3px;
+    margin-top: -5px;
+}
+.besst-seelng-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    position: relative;
+}
+.bestt-sell-priicice-web-vvrsn h3 {
+    position: absolute;
+    right: 4px;
+    top: 47px;
+}
+
+/* Star Rating Start*/
+.bessttt-selllng-start-rattng {
+    margin-top: -8px;
+}
+.bessttt-selllng-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 9px;
+}
+.bessttt-selllng-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 9px;
+}
+span.besst-selling-star-count-number {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.besstt-sellng-ttotl-star-rat-count {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+/* Star Rating End */

@@ -1,0 +1,202 @@
+.orpon-bd-ecommerce-web-version-footer-main-section {
+    margin-top: 20px;
+}
+.orpon-bd-ecommerce-web-version-footer-main-section {
+    background-color: #444750;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.orpon-bd-ecommerce-web-version-footer-logo-lft-box {
+    padding: 35px 0px 15px 0px;
+}
+.orpon-bd-ecommerce-web-version-footer-logo-img img {
+    height: 48px;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-about {
+    margin-top: 25px;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-about h5 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-about p {
+    color: #B4BACB;
+    font-size: 13px;
+    padding-right: 30px;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-contact-uss {
+    margin-top: 18px;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-contact-uss h5 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-contact-uss-extt ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-contact-uss-extt ul li {
+    display: block;
+    margin-bottom: 2px;
+}
+.orpon-bd-ecommrc-wev-vrsn-footr-contact-uss-extt ul li span {
+    color: #B4BACB;
+    font-size: 13px;
+    margin-left: 8px;
+}
+li.orpon-bbdd-eccmr-fotr-locatn-reltv {
+    padding-bottom: 15px;
+}
+li.orpon-bbdd-eccmr-fotr-locatn-reltv img {
+    position: relative;
+}
+span.footerrr-locctn-abbstlt {
+    position: absolute;
+}
+.orpon-bd-ecommrc-single-footer-menu-part-boox {
+    padding: 35px 0px 15px 0px;
+}
+.orpon-bd-ecommrc-single-footer-menu-part-hedd h4 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+}
+.orpon-bd-ecommrc-single-footer-menu-part-itm {
+    margin-top: 15px;
+}
+.orpon-bd-ecommrc-single-footer-menu-part-itm ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orpon-bd-ecommrc-single-footer-menu-part-itm ul li {
+    margin-bottom: 3px;
+}
+.orpon-bd-ecommrc-single-footer-menu-part-itm ul li a {
+    color: #B4BACB;
+    font-size: 13px;
+    text-decoration: none;
+}
+.orpon-bd-ecommrc-single-footer-menu-part-itm ul li a:hover {
+    color: #dedede;
+    transition: .2s;
+}
+.orpon-bbddd-scanner-sec-web-vvrsn img {
+    margin-top: 8px;
+    width: 120px;
+    height: 120px;
+}
+.orpon-bbddd-scanner-sec-web-vvrsn h5 {
+    font-size: 15px;
+    color: #FF6347;
+    font-weight: 500;
+    margin-top: 8px;
+}
+.orponbd-ecommerce-web-versionn-footer-ssubscribe-section span.orponbd-ecommerce-web-versionn-subscrive-txt {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400;
+    margin-right: 11px;
+}
+.orponbd-ecommerce-web-versionn-footer-ssubscribe-section input {
+    border: none;
+    background-color: #F4F4F5;
+    border-radius: 50px;
+    width: 48%;
+    height: 34px;
+    outline: none;
+    position: relative;
+    padding-left: 13px;
+    margin-left: 0px;
+}
+.orponbd-ecommerce-web-versionn-footer-ssubscribe-section input::placeholder {
+    font-style: italic;
+    font-size: 13px;
+    color: #B4BACB;
+}
+span.orpon-bd-footer-ssubscribe-web-btn button {
+    position: absolute;
+    height: 34px;
+    width: 108px;
+    border-radius: 50px;
+    border: none;
+    background-color: #FF6347;
+    color: #fff;
+    outline: none;
+    margin-left: -38px;
+    font-size: 13px;
+}
+span.orpon-bd-footer-ssubscribe-web-btn button:hover {
+    background-color: #ff4928;
+    transition: .3s;
+}
+span.orpon-bd-footer-ssubscribe-web-btn button span i.fas {
+    margin-left: 3px;
+}
+.orponbd-ecommerce-web-versionn-footer-ssubscribe-section {
+    margin-top: 10px;
+}
+.orpon-bd-footer-bottom-web-version-payment-txt ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orpon-bd-footer-bottom-web-version-payment-txt ul li {
+    display: inline-block;
+    margin-right: 5px;
+}
+.orpon-bd-footer-bottom-web-version-payment-txt ul li img {
+    width: 55px;
+}
+.orpon-bd-footer-bottom-web-version-payment-txt {
+    margin-top: 20px;
+}
+.row.orpon-bbd-footer-border-secction-web {
+    border-top: 2px solid #B4BACB;
+    margin-top: 16px;
+}
+.orpon-bd-footer-bottom-web-version-social-icon-section {
+    margin-top: 20px;
+}
+.orpon-bd-footer-bottom-web-version-social-icon-section ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orpon-bd-footer-bottom-web-version-social-icon-section ul li {
+    display: inline-block;
+    margin-left: 12px;
+}
+.orpon-bd-footer-bottom-web-version-social-icon-section ul li a i.fab {
+    background-color: #FF6347;
+    color: #444750;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 17px;
+    line-height: 31px;
+    font-weight: 700;
+}
+.orpon-bd-footer-bottom-web-version-social-icon-section ul li span {
+    color: #B4BACB;
+    font-size: 14px;
+}
+.orpon-bd-footer-bottom-web-version-social-icon-section ul li a i.fab:hover {
+    background-color: #ec5438;
+    color: #fff;
+    transition: .3s;
+}
+.orpon-bd-footer-bottom-web-version-all-right-resrv-txt {
+    margin-top: 24px;
+}
+.orpon-bd-footer-bottom-web-version-all-right-resrv-txt p {
+    color: #B4BACB;
+    font-size: 14px;
+}
+.row.orpon-bbd-footer-border-secction-web {
+    padding-bottom: 9px;
+}

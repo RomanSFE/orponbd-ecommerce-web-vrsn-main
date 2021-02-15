@@ -1,0 +1,240 @@
+/* Banner Section Start */
+.obd-top-brands-section-web-banner-section-box img {
+    width: 100%;
+    height: 350px;
+    border-radius: 8px;
+}
+.row.obd-top-brands-section-web-banner-secc {
+    margin-top: 10px;
+}
+/* Banner Section End */
+
+/* Logo icon and search section start */
+.obd-top-brand-top-brand-section-wv-logo-icon-bd-sec-box {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 12px;
+    margin-top: -10px;
+    height: 90px;
+}
+.row.obd-top-brand-logo-sectionn-paddd-exx .col-md-9 {
+    margin: 0px;
+    padding: 0px;
+}
+.obd-top-brand-logo-sectionn-img img {
+    width: 100%;
+    height: 63px;
+    border-radius: 6px;
+}
+.obd-brabnd-logo-section-txt-box-wv h4 {
+    font-size: 13px;
+    font-weight: 600;
+    color: #5D616D;
+    margin-top: 1px;
+}
+.obd-brabnd-logo-section-txt-box-wv p {
+    font-size: 11px;
+    color: #9A9FAD;
+    font-weight: 400;
+    margin: 0px;
+    margin-top: -3px;
+}
+.obd-brabnd-logo-section-like-and-star-sec ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-brabnd-logo-section-like-and-star-sec ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+.obd-brabnd-logo-section-like-and-star-sec ul li p {
+    font-size: 10px;
+    color: #9A9FAD;
+}
+.obd-brabnd-logo-section-like-and-star-sec ul li p span i.fas {
+    color: #FF6347;
+    margin-right: 2px;
+    font-size: 11px;
+}
+.obd-brabnd-logo-section-like-and-star-sec {
+    margin-top: 3px;
+}
+/* Logo icon and search section end */
+
+/* Star Rating Start*/
+.top-brandd-star-start-rattng {
+    margin-top: -8px;
+}
+.top-brandd-star-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 9px;
+}
+.top-brandd-star-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 9px;
+}
+span.top-brandd-star-count-number {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.top-brand-ttotl-star-rat-count {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+/* Star Rating End */
+
+/* Search Box */
+.obd-top-brand-logo-sectionn-web-v-search input {
+    width: 79%;
+    background-color: #F4F4F5;
+    border: 1px solid #B4BACB;
+    border-radius: 6px;
+    outline: none;
+    height: 34px;
+    padding: 7px;
+    font-size: 14px;
+}
+.obd-top-brand-logo-sectionn-web-v-search input::placeholder {
+    color: #B4BACB;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: italic;
+}
+.obd-top-brand-logo-sectionn-web-v-search input {
+    position: relative;
+}
+span.obd-topp-brand-search-abb-btn button {
+    position: absolute;
+    height: 34px;
+    background-color: #FF6347;
+    border: 1px solid #FF6347;
+    border-radius: 6px;
+    right: 83px;
+    width: 38px;
+    outline: none;
+    color: #fff;
+    font-size: 14px;
+}
+span.obd-topp-brand-search-abb-btn button:hover {
+    background-color: #f74626;
+    transition: .3s;
+    border-color: #f74626;
+}
+.obd-top-brand-logo-sectionn-web-v-search {
+    margin-top: 24px;
+}
+/* Search Box End */
+
+/* Sort By Section start */
+.obd-top-brand-logo-section-sortby-part select {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 4px 10px 4px 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #5D616D;
+    border: 1px solid #B4BACB;
+    outline: none;
+    width: 185px;
+    height: 34px;
+}
+.obd-top-brand-logo-section-sortby-part {
+    text-align: right;
+    margin-right: 7px;
+    margin-top: 24px;
+}
+/* Sort By Section End */
+
+
+/* Product Section start */
+.obd-top-brands-section-all-products-sec-box {
+    margin-top: 18px;
+}
+.obd-top-brands-section-all-products-single-product {
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    padding: 2px;
+    width: 19%;
+    margin-left: 9px;
+}
+.row.orponbd-top-brand-prod-exx-pdddrw {
+    margin-bottom: 9px;
+    margin-left: -8px;
+}
+.obd-top-brands-section-all-products-single-product a {
+    text-decoration: none;
+}
+.obd-top-brands-section-all-products-single-product:hover {
+    transition: .3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+
+.obd-top-brands-section-all-products-single-web-vvesnn-img img {
+    width: 100%;
+    height: 220px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.obd-top-brands-section-all-products-single-web-vvesnn-img img:hover {
+    opacity: .70;
+    transition: .2s;
+}
+.obd-top-brands-section-all-products-single-web-vvrsn-ttxt h3 {
+    font-size: 15px;
+    color: #FF6347;
+    font-weight: 600;
+}
+
+.obd-top-brands-section-all-products-single-web-vvrsn-ttxt p {
+    font-size: 12px;
+    color: #9A9FAD;
+    line-height: 17px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+}
+.obd-top-brands-section-all-products-single-web-vvrsn-ttxt {
+    padding: 3px;
+    margin-top: -5px;
+}
+.obd-top-brands-section-all-products-single-web-vvrsn-ttxt {
+    position: relative;
+}
+.obd-top-brands-section-priicice-web-vvrsn h3 {
+    position: absolute;
+    right: 4px;
+    top: 47px;
+}
+
+/* Star Rating Start*/
+.obd-top-brands-wevb-start-rattng {
+    margin-top: -8px;
+}
+.obd-top-brands-wevb-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 9px;
+}
+.obd-top-brands-wevb-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 9px;
+}
+span.obd-top-brands-wevb-star-count-number {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.obd-top-brands-wevb-star-rat-count {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+/* Star Rating End */
+
+/* Product section end */

@@ -1,0 +1,130 @@
+
+.top-bbrands-all-brnd-com-webversion-main-sectionx {
+    margin-top: 14px;
+}
+.top-bbrands-all-brnd-com-webversion-main-sectionx {
+    border-radius: 7px;
+    padding: 0px;
+}
+.top-bbrands-all-brnd-com-webversion-main-sectionx a {
+    text-decoration: none;
+}
+.top-bbrands-all-brnd-com-webversion-main-sectionx .container {
+    padding: 10px;
+}
+
+
+.top-bbrands-com-webversion-all-brands-hed-txxt-wv h3 {
+    font-size: 23px;
+    font-weight: 600;
+    color: #5D616D;
+}
+.top-bbrands-com-webversion-all-brands-hed-txxt-wv {
+    margin-top: 26px;
+}
+.top-bbrands-com-webversion-main-sectionx-all-brands-box {
+    margin-top: 20px;
+}
+/* Search Box */
+.top-bbrands-all-pro-sectionn-web-v-search input {
+    width: 45%;
+    background-color: #F4F4F5;
+    border: 1px solid #B4BACB;
+    border-radius: 6px;
+    outline: none;
+    height: 34px;
+    padding: 7px;
+    font-size: 14px;
+    margin-right: 27px;
+}
+.top-bbrands-all-pro-sectionn-web-v-search input::placeholder {
+    color: #B4BACB;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: italic;
+}
+.top-bbrands-all-pro-sectionn-web-v-search input {
+    position: relative;
+}
+span.top-bbrands-all-pro-brand-search-abb-btn button {
+    position: absolute;
+    height: 34px;
+    background-color: #FF6347;
+    border: 1px solid #FF6347;
+    border-radius: 6px;
+    right: 14px;
+    width: 38px;
+    outline: none;
+    color: #fff;
+    font-size: 14px;
+}
+span.top-bbrands-all-pro-brand-search-abb-btn button:hover {
+    background-color: #f74626;
+    transition: .3s;
+    border-color: #f74626;
+}
+.top-bbrands-all-pro-sectionn-web-v-search {
+    margin-top: 24px;
+}
+/* Search Box End */
+
+
+.row.top-brandds-all-brnd-com-delproj-rww-webb-versnn .col-md-2 {
+    padding: 5px;
+}
+
+.row.top-brandds-all-brnd-com-delproj-rww-webb-versnn {
+    margin: 0;
+    margin-top: -10px;
+    margin-bottom: 8px;
+}
+.topp-brandds-all-brnd-web-ddot-cmm-snnggl-prodct-web-vvesnn:hover {
+    transition: .3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+.topp-brandds-all-brnd-web-ddot-cmm-snnggl-prodct-web-vvesnn {
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.top-brandd-allx-snnggl-prodct-web-vvesnn-img img {
+    width: 100%;
+    height: 80px;
+    padding: 12px;
+}
+.top-brandd-allx-snnggl-prodct-web-vvesnn-big-img img {
+    width: 100%;
+    height: 115px;
+    padding: 5px;
+    border: 1px solid #ececec;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.top-brandd-allx-snnggl-prodct-web-vvesnn-big-img {
+    padding: 5px 10px 5px 10px;
+}
+.top-brandd-allx-ddot-cmm-snnggl-prodct-web-txt p {
+    text-align: center;
+    background-color: #F4F4F5;
+    margin: 0px;
+    padding: 0;
+    font-size: 13px;
+    color: #9A9FAD;
+    border: 1px solid #e6e6e6;
+    border-radius: 17px;
+    padding: 1px 5px 1px 5px;
+}
+.top-brandd-allx-ddot-cmm-snnggl-prodct-web-txt p:hover {
+    background-color: #e8e8e8;
+    transition: .3s;
+}
+.top-brandd-allx-ddot-cmm-snnggl-prodct-web-txt {
+    width: 55%;
+}
+.top-brandd-allx-ddot-cmm-snnggl-prodct-web-txt {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}

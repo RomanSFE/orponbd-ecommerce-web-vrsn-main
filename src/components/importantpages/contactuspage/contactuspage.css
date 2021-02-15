@@ -1,0 +1,241 @@
+.obd-contact-us-pages-main-section-box-inner-content {
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 8%);
+    border-radius: 10px;
+    margin-top: 45px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-box {
+    padding: 25px 8px 25px 47px;
+}
+.obd-contact-us-pages-main-section-box-inner-cont-hdd h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #FF6347;
+    margin-top: 4px;
+    margin-bottom: 30px;
+}
+
+.obd-contact-us-pages-main-section-box-inner-input-field-fst-nm-ex input {
+    border: 1px solid #E0E4F0;
+    background-color: #F4F4F5;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    outline: none;
+    font-size: 13px;
+    padding: 10px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-fst-nm-ex input::placeholder {
+    color: #B4BACB;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all input {
+    border: 1px solid #E0E4F0;
+    background-color: #F4F4F5;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    outline: none;
+    font-size: 13px;
+    padding: 10px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all input::placeholder {
+    color: #B4BACB;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all {
+    margin-bottom: 15px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-fst-nm-lst-nm {
+    margin-bottom: 15px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all textarea {
+    border: 1px solid #E0E4F0;
+    background-color: #F4F4F5;
+    border-radius: 10px;
+    width: 100%;
+    height: 100px;
+    outline: none;
+    font-size: 13px;
+    padding: 10px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all textarea::placeholder {
+    color: #B4BACB; 
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all-check-bxx span {
+    font-size: 13px;
+    color: #5D616D;
+    margin-left: 4px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all-check-bxx {
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all-buttonn button {
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #FF6347;
+    border: none;
+    border-radius: 30px;
+    outline: none;
+    padding: 6px 35px 6px 35px;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all-buttonn button:hover {
+    background-color: #fc4323;
+    transition: .2s;
+}
+.obd-contact-us-pages-main-section-box-inner-input-field-all-buttonn {
+    margin-top: 30px;
+}
+
+/* Right Image and Info Part start ------------*/
+.obd-contact-us-pages-main-section-box-inner-right-image-onlly img {
+    width: 60%;
+    margin-top: 56px;
+}
+.obd-contact-us-pages-main-section-box-inner-right-only-info-box {
+    background: rgba(255, 255, 255, .70) !important;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 8%);
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    width: 60%;
+    border-radius: 8px;
+}
+
+.obd-contact-us-pages-main-section-box-inner-right-image-info-main-box {
+    position: relative;
+    height: 100%;
+}
+.obd-contact-us-pages-main-section-box-inner-right-only-img-logo {
+    background-color: #FF6347;
+    padding: 22px;
+    border-radius: 8px;
+}
+.obd-contact-us-pages-main-section-box-inner-right-only-img-logo img {
+    width: 58%;
+}
+/* Address Sec */
+.orpon-bd-ecommrc-wev-vrsn-contact-page-contact-uss {
+    margin-top: 18px;
+}
+.orpon-bd-ecommrc-wev-vrsn-contact-page-contact-uss-extt ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orpon-bd-ecommrc-wev-vrsn-contact-page-contact-uss-extt ul li {
+    display: block;
+    margin-bottom: 2px;
+}
+.orpon-bd-ecommrc-wev-vrsn-contact-page-contact-uss-extt ul li span {
+    color: #5D616D;
+    font-size: 13px;
+    margin-left: 8px;
+}
+li.orpon-bbdd-eccmr-contact-pg-locatn-reltv {
+    padding-bottom: 15px;
+}
+li.orpon-bbdd-eccmr-contact-pg-locatn-reltv img {
+    position: relative;
+}
+span.footerrr-locctn-abbstlt-contact-pgg {
+    position: absolute;
+}
+.orpon-bd-ecommrc-wev-vrsn-contact-page-contact-uss-extt ul li img {
+    width: 25px;
+}
+.orpon-bd-ecommrc-wev-vrsn-contact-page-contact-uss-extt ul li {
+    margin-bottom: 11px;
+}
+.orpon-bd-ecommrc-wev-vrsn-contact-page-contact-uss-extt {
+    padding: 32px;
+    margin-top: 24px;
+    margin-left: 14px;
+}
+/* Address Sec -----------*/
+
+/* Social Icon */
+.obd-contact-pagg-itxm-web-version-social-icon-section p {
+    color: #5D616D;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+li.obd-contact-pgg-itxm-details-share-social-icon {
+    background-color: #fff;
+    padding: 10px 17px 10px 8px;
+    border-radius: 30px;
+    border: 1px solid #FF6347;
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section {
+    margin-top: 87px;
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li {
+    display: inline-block;
+    margin-left: 9px;
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li.obd-contact-pggg-itxm-details-facbk a i.fab {
+    background-color: #3E54AA;
+    color: #fff;
+    width: 27px;
+    height: 27px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 400;
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li.obd-contact-pggg-itxm-details-facbk a i.fab:hover {
+    background-color: #2040c2;
+    color: #fff;
+    transition: .3s;
+    box-shadow: 0 1px 5px rgba(68, 92, 187,.8);
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li.obd-contact-pggg-itxm-details-twittr a i.fab {
+    background-color: #60B8FF;
+    color: #ffffff;
+    width: 27px;
+    height: 27px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li.obd-contact-pggg-itxm-details-twittr a i.fab:hover {
+    background-color: #43aaff;
+    color: #fff;
+    transition: .3s;
+    box-shadow: 0 1px 5px rgba(70, 230, 230, 0.8);
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li.obd-contact-pggg-itxm-details-instag a i.fab {
+    background-color: #FF228B;
+    color: #ffffff;
+    width: 27px;
+    height: 27px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 500;
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li.obd-contact-pggg-itxm-details-instag a i.fab:hover {
+    background-color: #f30c7c;
+    color: #fff;
+    transition: .3s;
+    box-shadow: 0 1px 5px rgba(240, 1, 132, 0.8);
+}
+.obd-contact-pagg-itxm-web-version-social-icon-section ul li span {
+    color: #fff;
+    font-size: 14px;
+}
+/* Social Icon */
+
+
+/* Right Image and Info Part end */

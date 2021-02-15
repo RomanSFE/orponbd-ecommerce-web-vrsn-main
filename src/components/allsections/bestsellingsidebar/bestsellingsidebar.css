@@ -1,0 +1,60 @@
+.orponbd-womens-fashion-category-left-menu-bestselling-sidebar-sec {
+    margin-top: 8px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+    width: 220px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+.orponbd-womens-fashion-category-left-menu-best-selling-sidebar-paddng {
+    padding: 12px;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-single-price-txt h3 {
+    font-size: 15px;
+    color: #FF6347;
+    font-weight: 600;
+}
+span.besstt-sellng-ttotl-star-rat-count-left-sidebar {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+.bessttt-selllng-sidebar-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 9px;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-single-price-txt {
+    position: relative;
+}
+span.besst-selling-sidebarr-star-count-number {
+    position: absolute;
+    font-size: 8px;
+    color: #9A9FAD;
+    right: 10px;
+    top: 22px;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-single-img img {
+    width: 100%;
+    height: 195px;
+    border: 1px solid #f9f9f9;
+    border-radius: 6px;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-single-img {
+    margin-bottom: 7px;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-single-product {
+    margin-bottom: 7px;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-product-box {
+    margin-top: 25px;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-single-product a {
+    text-decoration: none;
+}
+.orponbd-womens-fashion-left-sidebar-bestsellng-single-img img:hover {
+    opacity: .75;
+    transition: .3s;
+}
+.bessttt-selllng-sidebar-start-rattng {
+    margin-top: -11px;
+}

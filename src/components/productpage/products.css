@@ -1,0 +1,1142 @@
+.obd-product-page-web-vs-main-i-product-info-box {
+    background-color: #fff;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 15px;
+    box-shadow: 0 3px 7px rgb(221 225 238 / 80%);
+}
+/* Zoom Image Part Start */
+.obd-product-page-web-vs-main-right-part-product-desc-main-zoom-img img {
+    width: 100% !important;
+    height: 370px !important;
+}
+/* Zoom Image Part End */
+
+/* Product price description start */
+.obd-product-page-web-vs-main-right-part-product-desc-hed-txt h4 {
+    font-size: 17px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-bottom: 9px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-hed-txt {
+    margin-top: 0px;
+}
+li.obd-product-page-web-vs-main-right-mn-price h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #FF6347;
+}
+li.obd-product-page-web-vs-main-right-mn-delt-price del {
+    color: #9A9FAD;
+}
+li.obd-product-page-web-vs-main-right-mn-delt-price h4 {
+    font-size: 16px;
+    color: #9A9FAD;
+}
+li.obd-product-page-web-vs-main-right-offr-pricex p {
+    font-size: 16px;
+    color: #fff;
+    background-color: #FF6347;
+    width: 86px;
+    text-align: center;
+    text-transform: uppercase;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding: 1px;
+    line-height: 23px;
+    margin: 0px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-price-banner-box {
+    background-color: #F4F4F5;
+    border-radius: 8px;
+    padding: 6px 10px 6px 10px;
+    margin-top: 15px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-price-banner-box ul {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 3px;
+    margin-bottom: -3px;
+    list-style: none;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-price-banner-box ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.obd-product-page-web-vs-main-right-part-product-desc-price-banner-box ul {
+    position: relative;
+}
+li.obd-product-page-web-vs-main-right-offr-pricex p {
+    position: absolute;
+    right: 0px;
+    top: 1px;
+}
+/* Product price description end */
+
+/* Ship From section Flag */
+.obd-product-page-web-vs-main-right-part-product-desc-ship-frm h4 {
+    font-size: 14px;
+    color: #5D616D;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-ship-frm {
+    margin-top: 11px;
+    margin-left: 5px;
+    margin-bottom: 12px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-ship-frm h4 span {
+    font-size: 13px;
+    color: #5D616D;
+    background-color: #F4F4F5;
+    padding: 2px 5px 2px 5px;
+    border-radius: 8px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-ship-frm h4 span img {
+    margin-right: 4px;
+    margin-left: 4px;
+    width: 21px;
+    height: 14px;
+}
+/* Ship From section Flag */
+
+/* Color Image Box Start  */
+.obd-product-page-web-vs-main-right-part-product-desc-color-image-box {
+    margin-top: 15px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-color-hed h4 {
+    font-size: 14px;
+    color: #5D616D;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-color-hed {
+    margin-bottom: 9px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-color-image-imgg ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-color-image-imgg ul li {
+    list-style: none;
+    margin-right: 7px;
+    display: inline-block;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-color-image-imgg ul li img {
+    width: 38px;
+    height: 38px;
+    border-radius: 4px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-color-image-imgg ul li:hover {
+    border: 2px solid #FF6347;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-color-image-imgg ul li {
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
+}
+/* Color Image Box End---------- */
+
+/* Size Box Start  */
+.obd-product-page-web-vs-main-right-part-product-desc-size-box {
+    margin-top: 13px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-size-hed h4 {
+    font-size: 14px;
+    color: #5D616D;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-size-items ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-size-items ul li {
+    display: inline-block;
+    margin-right: 8px;
+    background-color: #fff;
+    border: 1px solid #B4BACB;
+    width: 47px;
+    font-size: 13px;
+    border-radius: 6px;
+    text-align: center;
+    color: #9A9FAD;
+    padding: 1px;
+}
+.obd-product-page-web-vs-main-right-part-product-desc-size-items ul li:hover {
+    border-color: #FF6347;
+    color: #5D616D;
+}
+/* Size Box End -------------  */
+
+ /* increase decrease --- Start ----*/
+  /* Ex */
+  .def-number-input.number-input button {
+    outline: none;
+}
+    button.obd-product-page-web-vs-main-right-deccrs-btn {
+    border: 1px solid #DEE2F2 !important;
+    width: 32px !important;
+    height: 32px !important;
+    border-radius: 50px;
+    background-color: #f6f6f6;
+    color: #66686E;
+    margin-right: 5px !important;
+}
+    button.obd-product-page-web-vs-main-right-incc-btn {
+    border: 1px solid #DEE2F2 !important;
+    width: 32px !important;
+    height: 32px !important;
+    border-radius: 50px;
+    background-color: #f6f6f6;
+    color: #66686E;
+    margin-left: 5px !important;
+}
+.def-number-input.number-input button i.fas {
+    font-size: 11px;
+}
+button.obd-product-page-web-vs-main-right-deccrs-btn:hover {
+    background-color: #FF6347;
+    border-color: #FF6347;
+    transition: .1s;
+    color: #fff;
+    /* box-shadow: 0 1px 5px rgba(252, 98, 52, 0.8); */
+}
+button.obd-product-page-web-vs-main-right-incc-btn:hover {
+    background-color: #FF6347;
+    border-color: #FF6347;
+    transition: .1s;
+    color: #fff;
+    /* box-shadow: 0 1px 5px rgba(252, 98, 52, 0.8); */
+}
+input.grocery-cart-inc-dec-input-fld-in-modal {
+    outline: none;
+    border-radius: 15px;
+    width: 50px;
+    height: 30px !important;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #DEE2F2 !important;
+    color: #66686E !important;
+}
+  /* Ex -----*/
+
+.obd-product-page-web-vs-main-right-part-product-quantity-inc-dec-box {
+    margin-top: 13px;
+}
+.obd-product-page-web-vs-main-right-part-product-quantity-inc-dec-hed h4 {
+    font-size: 14px;
+    color: #5D616D;
+}
+span.obd-product-page-web-vs-main-right-inc-avail-txt {
+    margin-left: 10px;
+    font-size: 14px;
+    color: #9A9FAD;
+}
+/* increase decrease --- End ------*/
+
+/* EMI Modal Start */
+.obd-product-page-web-vs-main-right-part-product-emi-modal-sexc-box button {
+    outline: none;
+}
+button.obd-product-product-emi-btn {
+    font-size: 14px;
+    color: #FF6347;
+    border: none;
+    background: no-repeat;
+}
+button.obd-product-product-emi-btn span {
+    color: #5D616D;
+}
+.obd-product-page-web-vs-main-right-part-product-emi-modal-sexc-box {
+    margin-top: -37px;
+}
+/* EMI Modal End ----------- */
+
+/* Estimate Delivery Time  */
+.obd-product-page-web-vs-main-right-part-estimate-delivery-tm-bx h4 {
+    font-size: 13px;
+    color: #5D616D;
+    margin-left: 6px;
+}
+.obd-product-page-web-vs-main-right-part-estimate-delivery-tm-bx {
+    margin-top: 9px;
+}
+.obd-product-page-web-vs-main-right-part-estimate-delivery-tm-bx h4 span {
+    color: #9fa0a5;
+    font-size: 12px;
+    margin-left: 4px;
+}
+/* Estimate Delivery Time  */
+
+/* Buy Now Add To Cart Button Start ------- */
+.obd-product-page-web-vs-main-right-part-product-buy-now-add-to-cart-btn-lnk-box {
+    margin-top: 24px;
+}
+.obd-product-page-web-vs-main-right-part-product-buy-now-add-to-cart-btn-lnk-box ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-product-page-web-vs-main-right-part-product-buy-now-add-to-cart-btn-lnk-box ul li {
+    display: inline-block;
+    margin-right: 12px;
+}
+.obd-product-page-web-vs-main-right-part-product-buy-now-add-to-cart-btn-lnk-box ul li.obd-product-page-web-vs-main-right-part-bbuy-now a {
+    background-color: #5D616D;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 30px;
+    padding: 8px 28px 8px 28px;
+    text-decoration: none;
+    box-shadow: 0 3px 7px rgb(221 225 238 / 80%);
+}
+.obd-product-page-web-vs-main-right-part-product-buy-now-add-to-cart-btn-lnk-box ul li.obd-product-page-web-vs-main-right-part-bbuy-now a:hover {
+    background-color: #43464e;
+    transition: .2s;
+}
+.obd-product-page-web-vs-main-right-part-product-buy-now-add-to-cart-btn-lnk-box ul li.obd-product-page-web-vs-main-right-part-add-tto-crt button {
+    background-color: #FF6347;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 30px;
+    padding: 8px 21px 8px 21px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    box-shadow: 0 3px 7px rgb(247 135 70 / 80%);
+}
+.obd-product-page-web-vs-main-right-part-product-buy-now-add-to-cart-btn-lnk-box ul li.obd-product-page-web-vs-main-right-part-add-tto-crt button:hover {
+    background-color: #f54f32;
+    transition: .2s;
+}
+li.obd-product-page-web-vs-main-right-part-wish-lst-btn button {
+    background: none;
+    border-radius: 50px;
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    border: none;
+}
+li.obd-product-page-web-vs-main-right-part-wish-lst-btn button i.fas {
+    border: 1px solid #9A9FAD;
+    padding: 5px;
+    border-radius: 50px;
+    color: #9A9FAD;
+    font-size: 14px;
+}
+
+li.obd-product-page-web-vs-main-right-part-wish-lst-btn button i.fas:hover {
+    border-color: #ff6347;
+    transition: .2s;
+    color: #ff6347;
+}
+li.obd-product-page-web-vs-main-right-part-wish-lst-btn span {
+    margin-left: 7px;
+    font-size: 13px;
+    color: #9A9FAD;
+}
+
+/* Add To Cart Button Modal Start */
+.obd-grocery-all-itxm-details-modal-body-main-box-right-price-bx-sec {
+    background-color: #FAFAFB;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-price-bx-hed-txt img {
+    width: 22px;
+    height: 22px;
+    border-radius: 50px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-price-bx-hed-txt span {
+    font-size: 13px;
+    color: #5D616D;
+    font-weight: 600;
+    margin-left: 9px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-shoppng-btn {
+    margin-top: 5px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-shoppng-btn a {
+    background-color: #F5F5F5;
+    border: 1px solid #B4BACB;
+    border-radius: 30px;
+    font-size: 11px;
+    font-weight: 400;
+    color: #5D616D;
+    padding: 7px 23px 7px 23px;
+    text-decoration: none;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-vw-crt-chk-btn {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-vw-crt-chk-btn a {
+    background-color: #FF6347;
+    border-radius: 30px;
+    font-size: 11px;
+    font-weight: 400;
+    color: #ffffff;
+    padding: 7px 16px 7px 16px;
+    text-decoration: none;
+    box-shadow: 0 3px 7px rgb(247 135 70 / 80%);
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-ck-total-amnt {
+    margin-top: 31px;
+    padding-bottom: 4px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-ck-total-amnt p {
+    font-size: 15px;
+    font-weight: 600;
+    color: #5D616D;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-ck-total-amnt p span {
+    color: #FF6347;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-shoppng-btn a:hover {
+    background-color: #e2e2e2;
+    transition: .2s;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-vw-crt-chk-btn a:hover {
+    background-color: #ff4322;
+    transition: .2s;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-price-bx-sec {
+    height: 140px;
+    margin-top: -27px;
+    margin-bottom: -15px;
+    margin-right: -15px;
+    margin-left: -15px;
+    border-radius: 15px;
+}
+.modal-header .close {
+    padding: 14px !important;
+    z-index: 999 !important;
+}
+
+
+.obd-grocery-all-itxm-details-modal-body-main-box-two-nuttonnx-box ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-two-nuttonnx-box ul li {
+    display: inline-block;
+    margin-left: 10px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-right-price-bx-hed-txt {
+    margin-left: 32px;
+    margin-top: 27px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-two-ammnt-ttl {
+    margin-right: 33px;
+}
+.obd-grocery-all-itxm-details-modal-body-main-box-two-nuttonnx-box {
+    margin-right: 20px;
+    margin-top: -8px;
+}
+/* Add To Cart Button Modal End -------------- */
+
+/* Buy Now Add To Cart Button End ------- */
+
+/* Social Icon */
+li.obd-contact-pgg-itxm-details-share-social-icon {
+    background-color: #fff;
+    padding: 10px 17px 10px 8px;
+    border-radius: 30px;
+    border: 1px solid #FF6347;
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section {
+    margin-top: 14px;
+    margin-left: -8px;
+}
+li.obd-product-page-web-vs-main-right-share-txt {
+    font-size: 14px;
+    color: #5D616D;
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li {
+    display: inline-block;
+    margin-left: 9px;
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li.obd-product-page-web-vs-zoom-img-details-facbk a i.fab {
+    background-color: #3E54AA;
+    color: #fff;
+    width: 27px;
+    height: 27px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 400;
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li.obd-product-page-web-vs-zoom-img-details-facbk a i.fab:hover {
+    background-color: #2040c2;
+    color: #fff;
+    transition: .3s;
+    box-shadow: 0 1px 5px rgba(68, 92, 187,.8);
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li.obd-product-page-web-vs-zoom-details-twittr a i.fab {
+    background-color: #60B8FF;
+    color: #ffffff;
+    width: 27px;
+    height: 27px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li.obd-product-page-web-vs-zoom-details-twittr a i.fab:hover {
+    background-color: #43aaff;
+    color: #fff;
+    transition: .3s;
+    box-shadow: 0 1px 5px rgba(70, 230, 230, 0.8);
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li.obd-product-page-web-vs-zoom-details-instag a i.fab {
+    background-color: #FF228B;
+    color: #ffffff;
+    width: 27px;
+    height: 27px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 500;
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li.obd-product-page-web-vs-zoom-details-instag a i.fab:hover {
+    background-color: #f30c7c;
+    color: #fff;
+    transition: .3s;
+    box-shadow: 0 1px 5px rgba(240, 1, 132, 0.8);
+}
+.obd-product-page-web-vs-main-right-part-productx-social-icon-section ul li span {
+    color: #fff;
+    font-size: 14px;
+}
+/* Social Icon */
+
+/* Star Rating Start*/
+.obd-product-page-item-web-start-rattng {
+    margin-top: -8px;
+}
+.obd-product-page-item-web-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 10px;
+}
+.obd-product-page-item-web-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 10px;
+}
+span.obd-product-page-item-web-count-number {
+    font-size: 10px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.obd-product-page-item-web-ttotl-star-rat-count {
+    font-size: 10px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+/* Star Rating End -----------*/
+
+/* Recomended Products right part */
+.obd-product-page-web-vs-main-right-recomended-image-hedd h4 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #aaaaab;
+    margin-bottom: 15px;
+}
+.obd-product-page-web-vs-main-right-recomended-image-single-prdct a {
+    text-decoration: none;
+}
+.obd-product-page-web-vs-main-right-recomended-image-single-prdct {
+    margin-bottom: 10px;
+}
+.obd-product-page-web-vs-main-right-recomended-image-itm img {
+    width: 85%;
+    height: 143px;
+    border-radius: 6px;
+    border: 1px solid #f1f1f1;
+}
+.obd-product-page-web-vs-main-right-recomended-image-prdct-price h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 4px;
+    color: #ff6347;
+}
+.obd-product-page-web-vs-main-right-recomended-image-itm img:hover {
+    opacity: .8;
+    transition: .2s;
+}
+/* Recomended Products right part */
+
+/* Product Description Tab Sections Start -------------------------------*/
+.obd-product-page-web-vs-products-description-tab-content-box {
+    background-color: #fff;
+    box-shadow: 0 3px 7px rgb(221 225 238 / 80%);
+    border-radius: 8px;
+}
+.obd-product-page-web-vs-products-description-tab-main-product-info-box {
+    margin-top: 15px;
+}
+/* Tabs Head Section start */
+.obd-product-page-web-vs-products-description-tab-content-box .nav-tabs {
+    background-color: #FAFAFA;
+    border-bottom: none;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.obd-product-page-web-vs-products-description-tab-content-box .nav-tabs .nav-link.active {
+    background-color: #fceae8;
+    color: #FF6347;
+    font-weight: 500;
+    border: none;
+    font-size: 16px;
+}
+.obd-product-page-web-vs-products-description-tab-content-box .nav-tabs .nav-link {
+    color: #5D616D;
+    font-size: 16px;
+}
+/* Tabs Head Section end */
+
+/* Product Description Start */
+.obd-product-page-web-vs-products-description-details-section {
+    margin-top: 10px;
+}
+.obd-product-page-web-vs-products-description-immgg-prt img {
+    width: 70%;
+    /* position: relative; */
+    margin-top: 7px;
+}
+.obd-product-page-web-vs-products-description-heading-ttxt {
+    margin-bottom: 4px;
+    padding: 5px;
+}
+.obd-product-page-web-vs-products-description-heading-ttxt h4 {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #5D616D;
+    margin-top: 6px;
+}
+.obd-product-page-web-vs-products-description-heading-ttxt p {
+    font-size: 13px;
+    color: #5D616D;
+    line-height: 20px;
+}
+.obd-productt-details-desction-tv-tab-text-content.text-left {
+    padding: 5px;
+}
+
+.obd-productt-details-desction-tv-tab-text-content.text-left p {
+    font-size: 13px;
+    color: #5D616D;
+}
+
+.single-products-product-details-view-mmortc-bbtx button {
+    background-color: #FF6347;
+    color: #fff;
+    border-radius: 5px;
+    padding: 4px 12px 4px 12px;
+    font-size: 13px;
+    font-weight: 600;
+    border: none;
+    /* margin-bottom: 60px; */
+    /* margin-top: 11px; */
+    outline: none;
+    position: relative;
+    top: -41px;
+    /* margin-left: 11%; */
+
+}
+/* .single-products-product-details-view-mmortc-bbtx {
+    margin-top: 7px;
+} */
+.singlle-mrr-whiitt-space-seexctn {
+    box-shadow: 0 -15px 16px 23px #f2f2f2;
+    position: absolute;
+    width: 86%;
+    margin-left: 15px;
+}
+.single-products-product-details-view-mmortc-bbtx {
+    margin-top: 7px;
+    /* position: absolute; */
+    /* width: 102%; */
+    z-index: 999;
+    /* height: 0px; */
+    margin: 0px;
+    /* box-shadow: 0px -28px 28px 17px #fff; */
+    background-color: #f2f2f2;
+    width: 106%;
+    margin-left: -6px;
+}
+.view-more-bbtn-inside-ttxxtx-mmobbl {
+    background-color: #fff;
+    padding: 6px 4px 6px 5px;
+}
+/* View More Button */
+.single-product-inside-view-more-buttom-details-images-all img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.single-product-inside-view-more-buttom-details p {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+/* View More Button */
+
+/* View More Button Product Details */
+button.app__toggle {
+    /* background-image: linear-gradient(-70deg, #F88522 0%, #F8B21F 100%); */
+    text-transform: none;
+    height: 27px;
+    width: 100%;
+    margin-left: 7%;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    box-shadow: none;
+    border-radius: 4px;
+}
+button.app__toggle span {
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    width: 100%;
+}
+.app.hhgbcvc {
+    padding-bottom: 8px;
+    padding-top: 0px;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+button.app__toggle {
+    border: none;
+}
+button.app__toggle.app__toggle--active {
+    opacity: 0;
+    display: none;
+}
+.app__content {
+    margin-top: -26px;
+}
+button.app__toggle {
+    margin-top: -36px;
+    box-shadow: 0 -15px 32px 32px #f7f7f7;
+    background-color: #f7f7f7;
+}
+.app__content p {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    margin-top: 45px;
+    margin-bottom: 8px;
+}
+.app__content img {
+    width: 70%;
+    margin-bottom: 7px;
+}
+.jjhhgggff {
+    padding-right: 5px;
+}
+
+.collapse-css-transition {
+    transition: height 280ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dhfgshdgjh-view-les-btn button {
+    background-color: #FF6347;
+    text-transform: none;
+    height: 36px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: none;
+    border-radius: 30px;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin-top: 7px;
+}
+
+button.app__toggle span p {
+    background-color: #FF6347;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    width: 15%;
+    margin-left: 43%;
+    border-radius: 30px;
+    padding: 3px 0px 3px 0px;
+    height: 36px;
+    line-height: 31px;
+    margin-top: -15px;
+}
+/* View More Button Product Details */
+/* Product Description End ----------*/
+
+/* Specification sec ------ */
+.obd-product-page-web-vs-products-description-tab-specifi-lft-cnt {
+    margin-top: 4px;
+}
+.obd-product-page-web-vs-products-description-tab-specifi-lft-cnt ul {
+    list-style: none;
+    margin: 0px;
+    padding: 18px;
+}
+.obd-product-page-web-vs-products-description-tab-specifi-lft-cnt ul li {
+    font-size: 13px;
+    color: #5D616D;
+    margin-bottom: 6px;
+}
+.obd-product-page-web-vs-products-description-tab-specifi-lft-cnt ul li span {
+    font-weight: 500;
+    margin-right: 6px;
+}
+/* Specification sec End ------ */
+
+/* Customer Review Section Start */
+
+/* slider progress */
+.obd-product-page-web-vxs-progress-bar {
+    background-color: #ebebeb;
+    height: 7px;
+    width: 98%; 
+}
+.obd-product-page-web-vxs-progress-bar span {
+    display: inline-block;
+    height: 100%;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
+    transition: width .4s ease-in-out;    
+}
+.obd-product-page-web-vxs-progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    transition: width .6s ease;
+}
+.blue span { 
+    /* background-image: linear-gradient(-86deg, #5151e5 0%, #72edf2 100%); */
+    background-color: #FF6347;
+}
+
+
+.obd-product-page-web-vs-products-description-tab-customer-revvxu-sngl ul li {
+    display: inline-block;
+    margin-right: 7px;
+    margin-left: 4px;
+}
+li.obd-product-page-web-vs-onllyy-progressx {
+    width: 62%;
+}
+.obd-product-page-web-vs-products-description-tab-customer-revvxu-sngl {
+    margin-bottom: 7px;
+}
+.obd-product-page-web-vs-products-description-tab-customer-revvxu-sngl ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-product-page-web-vs-products-description-tab-customer-revvxu-sngl ul li {
+    font-size: 14px;
+    color: #5D616D;
+}
+li.obd-product-page-web-vs-onllyy-progressx-percentt p {
+    margin: 0px;
+    background-color: #fff;
+    border: 1px solid #9A9FAD;
+    font-size: 12px;
+    border-radius: 15px;
+    width: 38px;
+    text-align: center;
+}
+li.obd-product-page-web-vs-products-rev-one-str {
+    margin-right: 10px !important;
+}
+.obd-product-page-web-vs-products-description-tab-customer-revvxu-box {
+    padding: 18px;
+}
+
+.obd-product-page-web-vs-products-description-tab-customer-revvxu-hedd h4 {
+    font-size: 16px;
+    color: #5D616D;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+/* slider progress End */
+
+/* five count box */
+
+/* Star Rating Start*/
+.obd-product-page-web-start-rattng-five-count {
+    margin-top: -8px;
+}
+.obd-product-page-web-start-rattng-five-count .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 16px;
+}
+.obd-product-page-web-start-rattng-five-count .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 16px;
+}
+
+.obd-product-page-web-vs-products-description-tab-customer-revvxu-star-iconn-rt {
+    margin-top: 67px;
+}
+span.obd-product-page-web-vs-description-rate-numberr-txt {
+    font-size: 18px;
+    font-weight: 600;
+    color: #5D616D;
+}
+span.obd-product-page-web-vs-out-of-fiv {
+    font-size: 15px;
+    color: #a9a9a9;
+    margin-right: 10px;
+    font-weight: 500;
+}
+/* Star Rating End -----------*/
+
+/* five count box End ------------------*/
+
+/* Write a Review Modal Box Start */
+.obd-product-page-web-vs-description-tab-customer-revw-write-a-review-modal button {
+    background-color: #FF6347;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 30px;
+    padding: 8px 21px 8px 21px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    box-shadow: 0 3px 7px rgb(247 135 70 / 80%);
+}
+.obd-product-page-web-vs-description-tab-customer-revw-write-a-review-modal {
+    margin-top: 55px;
+}
+/* Write a Review Modal Box End ---------------- */
+
+/* User Star And Comment Section start */
+.obd-product-page-web-vs-products-description-tab-custom-user-star-commnt-select-lft select {
+    background-color: #ffffff;
+    border-radius: 0px;
+    padding: 4px 10px 4px 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #5D616D;
+    border: 1px solid #B4BACB;
+    outline: none;
+    width: 170px;
+    height: 34px;
+}
+.obd-product-page-web-vs-products-description-tab-custom-user-star-commnt-select-right select {
+    background-color: #ffffff;
+    border-radius: 0px;
+    padding: 4px 10px 4px 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #5D616D;
+    border: 1px solid #B4BACB;
+    outline: none;
+    width: 170px;
+    height: 34px;
+}
+.obd-product-page-web-vs-products-description-tab-custom-user-star-commnt-box-hedd {
+    background-color: #FAFAFA;
+    padding: 21px;
+}
+
+/* Star Rating Start*/
+.obd-product-page-web-start-rattng-commnt-count {
+    margin-top: -8px;
+}
+.obd-product-page-web-start-rattng-commnt-count .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 15px;
+}
+.obd-product-page-web-start-rattng-commnt-count .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 15px;
+}
+/* Star Rating End -----------*/
+.obd-product-page-web-vs-products-tab-custom-user-star-commnt-content-lft img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+}
+.obd-product-page-web-vs-products-tab-custom-user-star-commnt-content-lft span {
+    font-size: 14px;
+    color: #9A9FAD;
+    margin-left: 10px;
+}
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-user-cmnt {
+    margin-top: 5px;
+}
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-user-cmnt p {
+    font-size: 14px;
+    color: #5D616D;
+}
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-admin-cmnt p {
+    font-size: 14px;
+    color: #5D616D;
+}
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-admin-cmnt a {
+    font-size: 14px;
+    font-weight: 500;
+    color: #9A9FAD;
+    text-decoration: none;
+}
+.obd-product-page-web-vs-products-description-tab-custom-user-star-commnt-content-single {
+    margin-bottom: 15px;
+    padding: 2px 35px 2px 25px;
+}
+.obd-product-page-web-vs-products-description-tab-custom-user-star-commnt-content-bbox {
+    margin-top: 25px;
+}
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-admin-cmnt a:hover {
+    color: #5d5d5d;
+    transition: .2s;
+}
+
+
+
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-cmnt-input-like ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-cmnt-input-like ul li {
+    display: inline-block;
+    margin-right: 14px;
+}
+li.obd-product-page-web-vs-tab-profdd-onnly-cmnt-inpt input {
+    border: 1px solid #B4BACB;
+    background-color: #ffffff;
+    border-radius: 35px;
+    width: 100%;
+    height: 32px;
+    outline: none;
+    position: relative;
+    padding-left: 13px;
+    margin-left: 0px;
+    font-size: 12px;
+}
+li.obd-product-page-web-vs-tab-profdd-onnly-cmnt-inpt {
+    width: 80%;
+}
+li.obd-product-page-web-vs-tab-profdd-onnly-cmnt-inpt input::placeholder {
+    color: #9A9FAD;
+    font-style: italic;
+}
+.obd-product-page-web-vs-tab-custom-user-star-commnt-content-right-cmnt-input-like {
+    padding: 10px 15px 8px 35px;
+}
+li.obd-product-page-web-vs-tab-profdd-cmnt-inpt-cnt {
+    font-size: 18px;
+    color: #B4BACB;
+}
+li.obd-product-page-web-vs-tab-profdd-cmnt-inpt-cnt span {
+    font-size: 15px;
+}
+li.obd-product-page-web-vs-tab-profdd-cmnt-likke-cnt {
+    font-size: 18px;
+    color: #B4BACB;
+}
+li.obd-product-page-web-vs-tab-profdd-cmnt-likke-cnt span {
+    font-size: 15px;
+}
+li.obd-product-page-web-vs-tab-profdd-cmnt-likke-cnt i.far:hover {
+    color: #FF6347;
+    transition: .2s;
+}
+li.obd-product-page-web-vs-tab-profdd-cmnt-inpt-cnt i.far:hover {
+    color: #FF6347;
+    transition: .2s;
+}
+/* User Star And Comment Section end -----------*/
+
+/* Customer Review Section End ---------------------- */
+
+/* Questions Section Start */
+.obd-product-page-web-vs-products-description-tab-questions-main-box {
+    padding: 18px;
+}
+.obd-product-page-web-vs-products-description-tab-questions-single-qst {
+    border-bottom: 1px solid #e5e6e8;
+}
+.obd-product-page-web-vs-products-description-tab-questions-single-qst h4 {
+    font-size: 13px;
+    color: #FF6347;
+}
+.obd-product-page-web-vs-products-description-tab-questions-single-qst p {
+    font-size: 13px;
+    color: #5D616D;
+    margin-bottom: 10px;
+}
+.obd-product-page-web-vs-products-description-tab-questions-single-qst {
+    margin-bottom: 15px;
+}
+.obd-product-page-web-vs-products-description-tab-questions-hed {
+    margin-bottom: 25px;
+}
+.obd-product-page-web-vs-products-description-tab-questions-hed h4 {
+    font-size: 16px;
+    color: #5D616D;
+    font-weight: 600;
+}
+/* Questions Section End */
+/* Product Description Tab Sections End */
+
+
+/* Small Slider start */
+.home-page-main-slider-section-boxex-product-page-sm-sld .slick-prev {
+    position: absolute;
+    top: -28px;
+    left: 25px;
+    transform: rotate(90deg);
+}
+.home-page-main-slider-section-boxex-product-page-sm-sld .slick-next {
+    position: relative;
+    bottom: -6px;
+    left: 25px;
+    transform: rotate(90deg);
+    margin-bottom: -100px !important;
+    z-index: 999;
+}
+.single-carousel-web-hom-product-sml-img img {
+    width: 100%;
+    height: 69px;
+    border: 1px solid #9A9FAD;
+    border-radius: 6px;
+}
+.single-carousel-web-hom-product-sml-img img:hover {
+    border-color: #FF6347;
+    transition: .2s;
+}
+.home-page-main-slider-section-boxex-product-page-sm-sld {
+    margin-top: 24px;
+}
+/* Small Slider end------- */

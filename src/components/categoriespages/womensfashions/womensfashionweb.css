@@ -1,0 +1,421 @@
+/* Left category section start */
+.orponbd-womens-fashion-category-right-product-sec {
+    margin-left: 40px;
+}
+.orponbd-womens-fashion-category-left-menu-section {
+    width: 220px;
+    background-color: #F9FAFF;
+    border-radius: 8px;
+}
+.orponbd-womens-fashion-category-left-menu-section {
+    margin-top: 8px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.relateddd-cattt-gry-ytat h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-bottom: 9px;
+    margin-top: 5px;
+}
+.orponbd-womens-fashion-category-left-menu-section-itmm ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orponbd-womens-fashion-category-left-menu-section-itmm ul li {
+    display: block;
+    padding: 8px 0px 8px 0px;
+}
+.orponbd-womens-fashion-category-left-menu-section-itmm ul li a {
+    display: block;
+    color: #5D616D;
+    font-size: 13px;
+    text-decoration: none;
+}
+.orponbd-womens-fashion-category-left-menu-section-itmm ul li:hover {
+    background-color: #F0F3FF;
+    border-bottom: 1px solid #DEE2F2;
+}
+.orponbd-womens-fashion-category-left-menu-section-itmm ul li:hover a {
+    color: #fb4c2c;
+    font-weight: 600;
+    transition: .2s;
+}
+.relateddd-cattt-gry-ytat h4 {
+    margin-left: 12px;
+    padding-top: 8px;
+}
+
+.orponbd-womens-fashion-category-left-menu-section-itmm ul li a{
+    margin-left: 25px;
+}
+.orponbd-womens-fashion-category-left-menu-section-itmm ul li.womennsss-main-cattt-wbv a {
+    margin-left: 12px;
+}
+
+/* Filter Box */
+.orponbd-womens-fashion-category-left-menu-filtrrr-section {
+    width: 220px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+.orponbd-womens-fashion-category-left-menu-filtrrr-section {
+    margin-top: 8px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.orponbd-womens-fashion-category-left-menu-filter-paddv {
+    padding: 12px;
+}
+.orponbd-womens-fashion-category-left-menu-filter-paddv {
+    padding: 12px;
+}
+
+.orponbd-womens-fashion-category-filter-txtt h4 {
+    color: #5D616D;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.orponbd-womens-fashion-category-filter-txtt {
+    border-bottom: 2px solid #B4BACB;
+    padding-bottom: 4px;
+}
+.orponbd-womens-fashion-category-filter-txtt {
+    position: relative;
+}
+.flltrr-bbttn-brdr {
+    position: absolute;
+    border: 1px solid #FF6347;
+    width: 39px;
+    bottom: -2px;
+}
+/* Filter Box End */
+
+/* Price Box  */
+.orponbd-womens-fashion-category-pricee-txtt-range-sliid {
+    margin-top: 15px;
+}
+.orponbd-womens-fashion-category-pricee-txtt h4 {
+    color: #5D616D;
+    font-size: 14px;
+    font-weight: 400;
+}
+.orponbd-womens-fashion-category-pricee-txtt {
+    margin-top: 20px;
+}
+/* Price Box End */
+
+/* Availability Box start */
+.orponbd-womens-fashion-category-available-sec h4 {
+    color: #5D616D;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.orponbd-womens-fashion-category-available-chk-wbv p {
+    margin: 0px;
+    font-size: 12px;
+    color: #9A9FAD;
+    font-weight: 400;
+    margin-bottom: 1px;
+    line-height: 23px;
+}
+.orponbd-womens-fashion-category-available-chk-wbv {
+    margin-top: 15px;
+}
+/* Availability Box End */
+
+/* Color Box Start */
+.orponbd-womens-fashion-category-color-pick-sec h4 {
+    color: #5D616D;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.orponbd-womens-fashion-category-color-pick-sec {
+    margin-top: 20px;
+}
+.orponbd-womens-fashion-category-color-pick-box {
+    margin-top: 15px;
+}
+.orponbd-womens-fashion-category-color-pick-box ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li {
+    margin-right: 6px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li {
+    margin-top: 8px;
+}
+.orponbd-womens-fashion-category-color-pick-box {
+    background-color: #F4F4F5;
+    text-align: center;
+    border-radius: 8px;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li.color-one {
+    background-color: #FF0000; 
+}
+.orponbd-womens-fashion-category-color-pick-box ul li.color-two {
+    background-color: #02B901;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li.color-three {
+    background-color: #0080FF;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li.color-four {
+    background-color: #FF00EC;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li.color-five {
+    background-color: #FFF700;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li.color-six {
+    background-color: #FF8800;
+}
+.orponbd-womens-fashion-category-color-pick-box ul li.color-seven {
+    background-color: #A0A0A0;
+}
+/* Color Box End */
+
+/* Left category section End */
+
+/* Right Section Start */
+/* All Category Start */
+.orponbd-womens-fashion-category-right-topp-all-cttt p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #5D616E;
+}
+.orponbd-womens-fashion-category-right-topp-all-cttt p span {
+    color: #5D616D;
+    margin-left: 2px;
+    margin-right: 1px;
+    font-size: 13px;
+}
+.orponbd-womens-fashion-category-right-topp-all-cttt p span a {
+    font-size: 14px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-left: -2px;
+    text-decoration: none;
+}
+.orponbd-womens-fashion-category-right-topp-all-cttt {
+    margin-top: 14px;
+}
+/* All Category End */
+
+/* Sort By Select and List start */
+.orponbd-womens-fashion-category-right-sortt-by-booxx {
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.orponbd-womens-fashion-category-right-sortt-by-booxx {
+    background-color: #fff;
+    padding: 7px;
+    height: 44px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+    margin-left: -4px;
+    margin-top: -6px;
+}
+.orponbd-womentts-fashionn-sort-by-txt-web-vv span {
+    background-color: #F4F4F5;
+    border-radius: 6px;
+    padding: 5px 18px 5px 11px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #5D616D;
+    border: 1px solid #efefef;
+    line-height: 31px;
+}
+.orponbd-womentts-fashionn-sort-by-select-bbox select {
+    background-color: #ffffff;
+    border-radius: 6px;
+    padding: 4px 10px 4px 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #5D616D;
+    border: 1px solid #efefef;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    outline: none;
+    width: 185px;
+}
+.orponbd-womentts-fashionn-sort-by-txt-web-vv {
+    position: relative;
+}
+.orponbd-womentts-fashionn-sort-by-select-bbox select {
+    position: absolute;
+    left: 69px;
+    top: 0px;
+}
+.orponbd-womens-fashion-category-right-sortt-by-rigght-sec ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orponbd-womens-fashion-category-right-sortt-by-rigght-sec ul li {
+    display: inline-block;
+    margin-left: 14px;
+    margin-right: 1px;
+}
+.orponbd-womens-fashion-category-right-sortt-by-rigght-sec ul li p {
+    font-size: 13px;
+    line-height: 34px;
+}
+.orponbd-womens-fashion-category-right-sortt-by-rigght-sec ul li img {
+    width: 20px;
+    margin-top: 0px;
+}
+/* Sort By Select and List end */
+
+
+/* Product Section start */
+.orponbd-womens-fashion-category-right-single-product {
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    padding: 2px;
+    width: 18.6%;
+    margin-left: 10px;
+}
+.row.orponbd-womens-fashion-category-exx-pdddrw {
+    margin-bottom: 9px;
+}
+.orponbd-womens-fashion-category-right-single-product a {
+    text-decoration: none;
+}
+.orponbd-womens-fashion-category-right-single-product:hover {
+    transition: .3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+
+
+
+
+/* .besst-sellng-web-ddot-cmm-snnggl-prodct-web-vvesnn {
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    padding: 2px;
+} */
+.womens-fashion-ddot-cmm-snnggl-prodct-web-vvesnn-img img {
+    width: 100%;
+    height: 174px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.womens-fashion-ddot-cmm-snnggl-prodct-web-vvesnn-img img:hover {
+    opacity: .70;
+    transition: .2s;
+}
+.womens-fashnn-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt h3 {
+    font-size: 15px;
+    color: #FF6347;
+    font-weight: 600;
+}
+
+.womens-fashnn-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt p {
+    font-size: 12px;
+    color: #9A9FAD;
+    line-height: 17px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+}
+.womens-fashnn-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    padding: 3px;
+    margin-top: -5px;
+}
+.womens-fashnn-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    position: relative;
+}
+.bestt-sell-priicice-web-vvrsn h3 {
+    position: absolute;
+    right: 4px;
+    top: 47px;
+}
+
+/* Star Rating Start*/
+.bessttt-selllng-start-rattng {
+    margin-top: -8px;
+}
+.bessttt-selllng-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 9px;
+}
+.bessttt-selllng-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 9px;
+}
+span.besst-selling-star-count-number {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.besstt-sellng-ttotl-star-rat-count {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+/* Star Rating End */
+
+
+/* Right Section End */
+
+/* Pagination Start */
+.row.orpon-bd-web-v-womenss-fashion-pagination-section {
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+.orpon-bd-web-v-womenss-fashion-pagination-section-box {
+    background-color: #fff;
+    padding: 7px;
+    height: 45px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+    margin-left: -4px;
+    margin-top: -6px;
+}
+.orpon-bd-web-v-womenss-fashion-pagination-section-content ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px 4px 1px 0px;
+}
+.orpon-bd-web-v-womenss-fashion-pagination-section-content ul li {
+    display: inline-block;
+    margin-right: 4px;
+    background-color: #F4F4F5;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    border-color: #B4BACB;
+    line-height: 32px;
+}
+.orpon-bd-web-v-womenss-fashion-pagination-section-content ul li a {
+    color: #5D616D;
+    text-decoration: none;
+    font-size: 13px;
+}
+.orpon-bd-web-v-womenss-fashion-pagination-section-content ul li a span {
+    font-size: 12px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+li.orpon-bbd-pagination-prevv-txt-webv {
+    width: 95px !important;
+}
+li.orpon-bbd-pagination-nextt-txt-webv {
+    width: 95px !important;
+    background-color: #FF6347 !important;
+}
+li.orpon-bbd-pagination-nextt-txt-webv a {
+    color: #fff !important;
+}
+/* Pagination End */

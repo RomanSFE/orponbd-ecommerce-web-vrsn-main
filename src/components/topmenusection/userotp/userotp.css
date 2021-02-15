@@ -1,0 +1,85 @@
+.user-obd-otp-wv-main-section-box-sec-content {
+    width: 42%;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+    margin-top: 10%;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt input {
+    border: 1px solid #f52727;
+    border-radius: 8px;
+    width: 38px !important;
+    height: 36px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt {
+    margin-left: 30%;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-hedd-txt h3 {
+    font-size: 20px;
+    color: #FF6347;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-hedd-txt p {
+    color: #8c8c8c;
+    font-size: 13px;
+    margin-bottom: 28px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-hedd-txt-dont-get-cod h4 {
+    font-size: 13px;
+    color: #757373;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-hedd-txt-dont-get-cod {
+    margin-top: 31px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-hedd-txt-dont-get-cod h4 span button {
+    margin-left: 1px;
+    border: none;
+    background: none;
+    color: #FF6347;
+    font-weight: 600;
+    outline: none;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-confrn-btn ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-confrn-btn ul li {
+    display: inline-block;
+    margin-right: 6px;
+    margin-left: 6px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-confrn-btn ul li button {
+    background-color: #FF6347;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 4px 25px 4px 25px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-confrn-btn ul li button:hover {
+    background-color: #fd4524;
+    transition: .2s;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-confrn-btn {
+    margin-top: 22px;
+    margin-bottom: 15px;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-hedd-txt p span {
+    color: #ff6347;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-confrn-btn ul li a {
+    border: 1px solid #bbbbbb;
+    color: #6f6f6f;
+    border-radius: 8px;
+    padding: 1px 17px 3px 17px;
+    text-decoration: none;
+    background-color: #f1f1f1;
+}
+.user-obd-otp-wv-main-section-box-sec-inppt-confrn-btn ul li a:hover {
+    color: #4b4a4a; 
+}

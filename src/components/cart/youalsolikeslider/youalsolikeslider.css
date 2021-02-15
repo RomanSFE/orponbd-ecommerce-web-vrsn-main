@@ -1,0 +1,176 @@
+.obd-related-productt-dot-com-main-sectionx {
+    margin-top: 10px;
+}
+.obd-related-productt-dot-com-main-sectionx .container {
+    width: 100%;
+    padding: 0px;
+}
+.obd-related-productt-dot-main-sec-bboxx {
+    background: #ffffff;
+    border-radius: 7px;
+    padding: 4px;
+    padding-bottom: 9px;
+}
+
+/* hhhh */
+.obd-related-product-ccm-dealmmnnff-bb-web-v p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+}
+.obd-related-product-ccm-dealmmnnff-bb-web-v p {
+    position: relative;
+    margin-left: 7px;
+}
+.obd-related-product-ccm-dealmmnnff-bb-web-v a {
+    position: absolute;
+    right: 28px;
+    top: 18px;
+    font-size: 14px;
+    color: #B4BACB;
+    font-weight: 500;
+    text-decoration: none;
+}
+.obd-related-product-ccm-dealmmnnff-bb-web-v a:hover {
+    color: #FF6347;
+    transition: .2s;
+}
+.obd-related-product-ccm-dealmmnnff-bb-web-v a:hover i.fa {
+    color: #fff;
+    transition: .2s;
+    background-color: #FF6347;;
+}
+.obd-related-product-ccm-dealmmnnff-bb-web-v a i.fa {
+    color: #fff;
+    font-size: 11px;
+    background-color: #B4BACB;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 15px;
+}
+.obd-related-product-ccm-dealmmnnff-bb-web-v {
+    margin-bottom: 21px !important;
+    margin-top: 13px;
+}
+
+
+.obd-related-product-ccm-dealmmnnff-bb-web-v p span img {
+    width: 40px;
+}
+/* hhhh */
+
+.row.obd-related-products-com-delproj-rww .col-3 {padding: 1.8px;}
+
+.row.obd-related-products-com-delproj-rww {
+    margin: 0;
+    margin-top: -10px;
+}
+.obdd-dot-cmm-section-box-neww-arrival {
+    border-radius: 15px;
+    overflow: hidden;
+}
+.obdd-dot-cmm-section-box-neww-arrival {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.obd-related-product-web-ddot-cmm-snnggl-prodct {
+    width: 100%;
+    height: 113.5px;
+    background-color: #ffffff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+}
+.obd-related-product-web-ddot-cmm-snnggl-prodct-img img {
+    width: 100%;
+    height: 165px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.obd-related-product-web-ddot-cmm-snnggl-prodct-img img:hover {
+    opacity: .75;
+    transition: .2s;
+}
+.obd-related-product-web-ddot-cmm-snnggl-prodct-ttxt p {
+    font-size: 12px;
+    color: #9A9FAD;
+    line-height: 17px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+}
+
+.obd-related-product-web-ddot-cmm-snnggl-prodct-ttxt {
+    padding: 3px;
+    margin-top: -5px;
+}
+.obd-related-product-web-ddot-cmm-snnggl-prodct a {
+    text-decoration: none;
+}
+
+.related-product-ratng-priicice-web-vvrsn h3 {
+    position: absolute;
+    right: 4px;
+    top: 47px;
+}
+.obd-related-product-web-ddot-cmm-snnggl-prodct-ttxt {
+    position: relative;
+}
+
+.related-product-ratng-priicice-web-vvrsn h3 {
+    font-size: 15px;
+    color: #FF6347;
+    font-weight: 600;
+}
+
+/* Star Rating Start*/
+.related-product-selllng-start-rattng {
+    margin-top: -8px;
+}
+.related-product-selllng-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 9px;
+}
+.related-product-selllng-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 9px;
+}
+span.related-product-star-count-number {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.related-product-ttotl-star-rat-count {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+/* Star Rating End */
+
+
+/* Carousel custom css */
+.slick-prev {
+    color: #333 !important;
+    background: none;
+}
+.slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: #b5b5b5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-prev:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: #9c9c9c;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+/* Carousel custom css */

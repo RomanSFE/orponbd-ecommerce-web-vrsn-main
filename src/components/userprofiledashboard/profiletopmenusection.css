@@ -1,0 +1,244 @@
+.orpon-bd-main-web-version-topmenu-small-menu-sec {
+    background-color: #f4f4f4;
+    height: 34px;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-right-sec ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-right-sec ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-right-sec ul li a {
+    font-size: 13px;
+    color: #a2a2a2;
+    text-decoration: none;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-right-sec ul li a:hover {
+    color: #333;
+    transition: .3s;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-left-sse p {
+    font-size: 13px;
+    color: #8a8a8a;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-left-sse p span i.fas {
+    font-size: 12px;
+    margin-right: 2px;
+    transform: rotate(90deg);
+}
+.orpon-bd-main-web-version-topmenu-small-menu-left-sse p:hover {
+    color: #333;
+    transition: .3s;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-left-sse {
+    margin-top: 8px;
+}
+.orpon-bd-main-web-version-topmenu-small-menu-right-sec {
+    margin-top: 4px;
+}
+/* Top Small menu end */
+
+.orpon-bd-main-web-version-topmenu-section-profile {
+    background-color: #fff;
+    height: 86px;
+}
+.orpon-bd-main-web-version-topmenu-logo-section img {
+    width: 90%;
+}
+.orpon-bd-main-web-version-topmenu-serch-cat-sec-profile button {
+    position: absolute;
+    z-index: 99;
+    height: 35px;
+    border: none;
+    border-radius: 50px;
+    background-color: #f4f4f5;
+    font-size: 13px;
+    outline: none;
+    border-right: 1px solid #e4e4e4;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding: 0px 12px 0px 15px;
+    font-weight: 500;
+    color: #B4BACB;
+    font-style: italic;
+}
+.orpon-bd-main-web-version-topmenu-serch-cat-sec-profile button span {
+    margin-left: 5px;
+}
+.orpon-bd-main-web-version-topmenu-search-boxx-profile input {
+    border: none;
+    background-color: #F4F4F5;
+    border-radius: 50px;
+    width: 93%;
+    height: 35px;
+    outline: none;
+    position: relative;
+    padding-left: 197px;
+    margin-left: 0px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.orpon-bd-main-web-version-topmenu-search-boxx-profile span button {
+    position: absolute;
+    height: 35px;
+    width: 90px;
+    border-radius: 50px;
+    border: none;
+    background-color: #FF6347;
+    color: #fff;
+    right: 25px;
+    outline: none;
+    box-shadow: 0 1px 5px rgba(255, 99, 71,.9);
+}
+.orpon-bd-main-web-version-topmenu-search-boxx-profile span button:hover {
+    background-color: #ff4928;
+    transition: .3s;
+}
+.orpon-bd-main-web-version-topmenu-search-boxx-profile span button i.fas {
+    font-size: 12px;
+    margin-right: 5px;
+}
+.orpon-bd-main-web-version-topmenu-search-boxx-profile span button {
+    font-size: 13px;
+    font-weight: 500;
+}
+.orpon-bd-main-web-version-topmenu-logo-section {
+    margin-top: 20px;
+}
+.orpon-bd-main-web-version-topmenu-search-box-sec-main-profile {
+    margin-top: 26px;
+    margin-left: 0px;
+}
+.orpon-bd-main-web-version-topmenu-search-boxx-profile input::placeholder {
+    color: #B4BACB;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.orpon-bd-main-web-version-topmenu-search-right-user-signup-sec-profile ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.orpon-bd-main-web-version-topmenu-search-right-user-signup-sec-profile ul li {
+    display: inline-block;
+    margin-left: 18px;
+}
+.orpon-bd-main-web-version-topmenu-search-right-user-signup-sec-profile ul li span img {
+    width: 20px;
+    margin-right: 6px;
+    margin-top: -5px;
+}
+.orpon-bd-main-web-version-topmenu-search-right-user-signup-sec-profile ul li span {
+    font-size: 13px;
+    color: #5D616D;
+    font-weight: 500;
+}
+.orpon-bd-main-web-version-topmenu-search-right-user-signup-sec-profile {
+    margin-top: 32px;
+    margin-left: 0px;
+}
+.orpon-bd-main-web-version-topmenu-search-right-user-signup-sec-profile ul li a {
+    text-decoration: none;
+}
+.orpon-bd-main-web-version-topmenu-search-right-user-signup-sec-profile ul li span:hover {
+    color: #000;
+    transition: .3s;
+}
+
+li.orppon-bd-cart-web-abb-sec a img {
+    width: 20px;
+    position: relative;
+}
+li.orppon-bd-cart-web-abb-sec {
+    margin-left: 20px !important;
+}
+li.orppon-bd-cart-web-abb-sec span {
+    position: absolute;
+    top: 23px;
+    margin-left: -4px;
+    background-color: #ff6347;
+    color: #fff !important;
+    font-size: 10px !important;
+    padding: 1px;
+    border-radius: 100%;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    box-shadow: 0 1px 5px rgba(255, 99, 71,.9);
+    line-height: 17px;
+}
+span.obd-profile-cartt-section-cnt-bx {
+    font-size: 12px !important;
+    color: #fff !important;
+    background-color: #FF6347;
+    padding: 0px 10px 0px 10px;
+    border-radius: 50px;
+    margin-left: 5px;
+}
+.orpon-bd-main-web-version-topmenu-logo-section img {
+    width: 60%;
+    margin-left: -31px;
+}
+.row.orpon-bd-main-web-version-topmenu-section-row-exx-pdd-profile .col-md-5 {
+    padding: 0px;
+}
+
+
+
+/* Main Menu and category section start */
+.orpon-bd-main-web-version-topmenu-onlyy-mennnu-web-section-profile ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.orpon-bd-main-web-version-topmenu-onlyy-mennnu-web-section-profile ul li {
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 10px;
+    height: 42px;
+    padding: 5px;
+}
+.orpon-bd-main-web-version-topmenu-onlyy-mennnu-web-section-profile ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+    padding: 5px;
+    line-height: 33px;
+}
+.orpon-bd-main-web-version-topmenu-menu-and-category-section-box-profile {
+    background-color: #FF6347;
+    height: 42px;
+}
+.orpon-bd-main-web-version-topmenu-onlyy-mennnu-web-section-profile ul li:hover {
+    background-color: #F34425;
+    transition: .3s;
+}
+.orpon-bd-main-web-version-topmenu-onlyy-web-category button {
+    width: 100%;
+    height: 42px;
+    border: none;
+    background-color: #FF6347;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    outline: none;
+}
+.orpon-bd-main-web-version-topmenu-onlyy-web-category button:hover {
+    background-color: #fb4c2c;
+    transition: .3s;
+}
+.orpon-bd-main-web-version-topmenu-onlyy-web-category button span {
+    margin-left: 5px;
+}
+.row.orpon-bd-main-web-version-topmenu-menu-extrra-bbtn-ctg-profile .col-md-9 {
+    padding: 0;
+}
+.orpon-bd-main-web-version-topmenu-onlyy-mennnu-web-section-profile {
+    margin-left: 0px;
+}
+/* Main Menu and category section start */

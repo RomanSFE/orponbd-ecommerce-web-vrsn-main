@@ -1,0 +1,260 @@
+/* Secure text sec start */
+/* Timeline start */
+.my-cart-wv-secure-timeline-section-bbox h4 {
+    color: #5D616D;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.my-cart-wv-secure-timeline-section-bbox {
+    border-bottom: 2px solid #E0E4F0;
+    padding-bottom: 4px;
+    width: 78%;
+}
+.my-cart-wv-secure-timeline-section-bbox {
+    position: relative;
+}
+.my-cart-wv-secure-timeline-section-bordr {
+    position: absolute;
+    border: 2px solid #FF6347;
+    width: 90px;
+    bottom: -3px;
+}
+.my-cart-wv-secure-timeline-section-bordr.proceedto-checkout-wvv {
+    position: absolute;
+    border: 2px solid #FF6347;
+    width: 260px;
+    bottom: -3px;
+}
+p.my-cart-shoppingg-cart-icon-tzxt {
+    color: #ff6347 !important;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul li {
+    display: inline-block;
+    width: 25%;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box {
+    width: 99%;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul li .my-cart-shoppingg-cart-icon-bbggg {
+    background-color: #E0E4F0;
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    font-size: 14px;
+    border-radius: 50px;
+    line-height: 37px;
+}
+.my-cart-shoppingg-cart-icon-bbggg.shoppinf-color {
+    background-color: #FF6347!important;
+}
+.my-cart-wv-secure-timeline-section-timeline-sec {
+    position: relative;
+    margin-top: 40px;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box {
+    position: absolute;
+    top: -13px;
+    left: -5px;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul li p {
+    font-size: 14px;
+    margin-left: -120px;
+    margin-top: 13px;
+    color: #B4BACB;
+}
+/* Timeline end */
+/* Secure text sec end ---------------- */
+
+/* Shipping Address Box Start */
+.my-cart-wv-shoppingcart-order-shipping-address-boxx-content-wv {
+    border: 1px solid #B4BACB;
+    border-radius: 8px;
+    padding: 12px;
+    background-color: #FAFAFB;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-boxx-content-wv h4 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #5D616D;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-boxx-content-wv h5 {
+    color: #5D616D;
+    font-size: 12px;
+    margin-top: -2px;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-boxx-content-wv p {
+    color: #5D616D;
+    font-size: 12px;
+    margin: 0px;
+    margin-top: 4px;
+    margin-bottom: 3px;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-boxx {
+    margin-top: 18px;
+    margin-bottom: 20px;
+}
+
+.my-cart-wv-shoppingcart-order-shipping-address-boxx-content-wv {
+    position: relative;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-edit-lnk-ab {
+    position: absolute;
+    top: 2px;
+    right: 10px;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-edit-lnk-ab ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-edit-lnk-ab ul li {
+    display: inline-block;
+    margin-left: 10px;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-edit-lnk-ab ul li a {
+    font-size: 11px;
+    color: #9A9FAD;
+    text-decoration: none;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-edit-lnk-ab ul li a span {
+    margin-left: 1px;
+}
+/* Active Box Color */
+.whiteButton .my-cart-wv-shoppingcart-order-shipping-address-boxx-content-wv {
+    background-color: #FEE2DE !important;
+    border: 1px solid #FF6347;
+}
+.whiteButton .my-cart-wv-shoppingcart-order-shipping-address-boxx-content-wv .my-cart-wv-shoppingcart-order-shipping-address-edit-lnk-ab ul li a {
+    color:#FF6347;
+}
+/* Active Box Color */
+
+/* Add New Button */
+.my-cart-wv-shoppingcart-order-shipping-address-add-new-btn {
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+.my-cart-wv-shopping-add-new-address-bbuxtn button {
+    background-color: #FF6347;
+    color: #fff;
+    font-size: 12px;
+    box-shadow: 0 2px 6px rgb(249 145 127);
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 14px 7px 14px;
+    border: none;
+    outline: none;
+}
+.my-cart-wv-shopping-add-new-address-bbuxtn button:hover {
+    background-color: #f74323;
+    transition: .2s;
+}
+.my-cart-wv-shopping-add-new-address-bbuxtn button span i.fas {
+    font-size: 11px;
+    margin-left: 4px;
+}
+/* Inside Modal */
+.my-cart-wv-shoppingcart-order-shipping-address-hed h4 {
+    font-size: 18px;
+    margin-left: 21px;
+    font-weight: 600;
+    color: #5D616D;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-input-field input {
+    background-color: #F4F4F5;
+    border-radius: 8px;
+    width: 90%;
+    height: 40px;
+    outline: none;
+    padding: 8px;
+    font-size: 13px;
+    padding-left: 12px;
+    border: 1px solid #e8e8e8;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-input-field {
+    margin-bottom: 10px;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-input-field textarea {
+    background-color: #F4F4F5;
+    border-radius: 8px;
+    width: 90%;
+    height: 60px;
+    outline: none;
+    padding: 8px;
+    font-size: 13px;
+    padding-left: 12px;
+    border: 1px solid #e8e8e8;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-input-field button {
+    border: none;
+    font-size: 14px;
+    border-radius: 30px;
+    background-color: #FF6347;
+    color: #fff;
+    width: 38%;
+    height: 36px;
+    box-shadow: 0 2px 6px rgb(249 145 127);
+    margin-top: 15px;
+    margin-bottom: 12px;
+    outline: none;
+}
+.my-cart-wv-shoppingcart-order-shipping-address-input-field button:hover {
+    background-color: #fb3f1d;
+    transition: .2s;
+}
+/* Inside Modal */
+
+/* Coupon Code */
+.my-cart-wv-shoppingcart-order-total-coupon-code-input-fld input {
+    background-color: #ffffff;
+    border-radius: 8px;
+    width: 59%;
+    height: 33px;
+    outline: none;
+    padding: 8px;
+    font-size: 13px;
+    padding-left: 12px;
+    border: 1px solid #9A9FAD;
+    margin-right: 10px;
+}
+.my-cart-wv-shoppingcart-order-total-coupon-code-input-fld span button {
+    border: none;
+    font-size: 12px;
+    border-radius: 30px;
+    background-color: #FF6347;
+    color: #fff;
+    width: 34%;
+    height: 33px;
+    box-shadow: 0 2px 6px rgb(249 145 127);
+    margin-top: 15px;
+    margin-bottom: 12px;
+    outline: none;
+    font-weight: 500;
+}
+.my-cart-wv-shoppingcart-order-total-coupon-code-input-fld span button:hover {
+    background-color: #fd401f;
+    transition: .2s;
+}
+.my-cart-wv-shoppingcart-order-total-coupon-code-box {
+    margin-bottom: 20px;
+    margin-top: -4px;
+}
+/* Coupon Code */
+
+/* Add New Button */
+/* Shipping Address Box End -----------*/
+
+/* Product Details Box Start  */
+span.my-cart-wv-shoppingcart-proceed-to-checkout-count {
+    font-size: 14px;
+    color: #9A9FAD;
+}
+/* Product Details Box End  */

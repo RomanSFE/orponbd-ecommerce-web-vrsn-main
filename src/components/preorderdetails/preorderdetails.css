@@ -1,0 +1,213 @@
+/* Preorder single category box start */
+.obd-pre-order-details-top-banner-section-web-box {
+    margin-top: 14px;
+    margin-bottom: 15px;
+}
+.pre-order-details-single-catt-box-wb {
+    border: 1px solid #E1B6FF;
+    border-radius: 8px;
+    padding: 7px 4px 7px 4px;
+    height: 135px;
+}
+.pre-order-texxt-comtent-hedd-text p {
+    font-size: 13px;
+    color: #9A9FAD;
+    margin-top: -4px;
+    margin-bottom: 25px;
+}
+.pre-order-section-boxs-wb-content-box {
+    background-color: #fff;
+    padding: 25px 44px 6px 30px;
+    border-radius: 8px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.row.obd-pre-order-details-top-banner-exx-pdd .col-md-7 {
+    padding-right: 0px;
+}
+.row.obd-pre-order-details-top-banner-exx-pdd .col-md-5 {
+    padding-left: 0px;
+    margin-left: -3px;
+}
+.row.pre-order-section-boxs-exx-cat-row {
+    margin-bottom: 22px;
+}
+.row.pre-order-section-boxs-exx-cat-row .col-md-3 {
+    margin: 0px;
+    padding-right: 8px;
+}
+.pre-order-section-boxs-wb-content-box {
+    height: 435px;
+}
+.pre-order-section-boxs-wb-content-box:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+    transition: .2s;
+}
+.pre-order-details-single-catt-box-wb-main-itm-right-banner:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+    transition: .2s;
+}
+.pre-order-details-single-catt-box-wb-main-itm a {
+    text-decoration: none;
+}
+.pre-order-texxt-comtent-hedd-text h4 {
+    color: #A127F2;
+    font-size: 28px;
+    font-weight: 500;
+}
+.pre-order-details-single-catt-box-wb p {
+    font-size: 13px;
+    color: #5D616D;
+    padding: 7px 8px 4px 8px;
+    margin: 0px;
+}
+.pre-order-details-single-catt-box-wb img {
+    margin-top: 5px;
+    height: 63px;
+}
+.pre-order-details-single-catt-box-wb:hover {
+    background-color: #8300DA;
+    color: #fff;
+    transition: .3s;
+    box-shadow: 0 4px 10px rgba(131,0,218,0.4);
+    border-color: #8300DA;
+}
+.pre-order-details-single-catt-box-wb:hover p {
+    color: #fff;
+    transition: .3s;
+}
+
+/* Big image sec st */
+.pre-order-details-single-catt-box-wb-main-itm-right-banner {
+    height: 435px;
+}
+.pre-order-details-single-catt-box-wb-main-itm-right-banner img {
+    width: 100%;
+    height: 435px;
+    border-radius: 8px;
+}
+/* Big image sec ed */
+/* Preorder single category box end */
+
+
+
+/* Product Section Start -------------*/
+/* New Item Sort and Select start */
+.obd-pre-order-wv-details-products-new-item-for-you-txt-section {
+    margin-top: 25px;
+}
+.obd-pre-order-wv-details-products-new-item-right-sort select {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 4px 10px 4px 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #5D616D;
+    border: 1px solid #B4BACB;
+    outline: none;
+    width: 200px;
+    height: 34px;
+}
+.obd-pre-order-wv-details-products-new-item-txt-wv h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #53565F;
+}
+.obd-pre-order-wv-details-products-new-item-txt-wv {
+    margin-top: 5px;
+}
+/* New Item Sort and Select End */
+
+/* Product Section start ---------- */
+.obd-pre-order-wv-det-section-all-products-sec-box {
+    margin-top: 18px;
+}
+.row.pre-order-wv-det-prod-exx-pdddrw {
+    margin-bottom: 9px;
+    margin-left: -8px;
+}
+.obd-pre-order-wv-details-all-products-single-product {
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    padding: 2px;
+    width: 19%;
+    margin-left: 9px;
+}
+.obd-pre-order-wv-details-all-products-single-product a {
+    text-decoration: none;
+}
+.obd-pre-order-wv-details-all-products-single-product:hover {
+    transition: .3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+
+.obd-pre-order-wv-details-all-products-single-web-vvesnn-img img {
+    width: 100%;
+    height: 220px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.obd-pre-order-wv-details-all-products-single-web-vvesnn-img img:hover {
+    opacity: .70;
+    transition: .2s;
+}
+
+
+.pre-order-wv-details-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    position: relative;
+}
+.pre-order-wv-details-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    padding: 3px;
+    margin-top: -5px;
+}
+.pre-order-wv-details-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt p {
+    font-size: 12px;
+    color: #9A9FAD;
+    line-height: 17px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+}
+.pre-order-wv-details-priicice-web-vvrsn h3 {
+    position: absolute;
+    right: 4px;
+    top: 47px;
+}
+.pre-order-wv-details-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt h3 {
+    font-size: 15px;
+    color: #FF6347;
+    font-weight: 600;
+}
+
+/* Star Rating Start*/
+.pre-order-wv-details-start-rattng {
+    margin-top: -8px;
+}
+.pre-order-wv-details-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 9px;
+}
+.pre-order-wv-details-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 9px;
+}
+span.pre-order-wv-details-star-count-number {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.pre-order-wv-details-ttotl-star-rat-count {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+/* Star Rating End */
+
+
+.obd-only-for-pre-order-wv-details-view-more-buttonn {
+    margin-top: 25px;
+    margin-bottom: 32px;
+}
+/* Product Section End */

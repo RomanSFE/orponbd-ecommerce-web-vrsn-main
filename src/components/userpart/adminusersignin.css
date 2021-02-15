@@ -1,0 +1,80 @@
+.obd-admin-dashboard-user-login-main-box {
+    width: 33%;
+    top: 21%;
+    position: fixed;
+    left: 33.5%;
+}
+.obd-admin-dashboard-user-login-main-box {
+    background-color: #fff;
+    box-shadow: 0 0px 12px rgba(0,0,0,.08);
+    border-radius: 5px;
+    padding: 18px;
+}
+.obd-admin-dashboard-user-login-logo-img img {
+    width: 42%;
+    margin-top: 20px;
+    margin-bottom: 33px;
+}
+.obd-admin-dashboard-user-login-form-input-field input {
+    border: none;
+    background-color: #F4F4F5;
+    border-radius: 8px;
+    width: 100%;
+    height: 40px;
+    outline: none;
+    padding: 8px;
+    font-size: 13px;
+    padding-left: 12px;
+}
+.obd-admin-dashboard-user-login-form-input-field {
+    margin-bottom: 15px;
+}
+.obd-admin-dashboard-user-login-form-signin-btn button {
+    background-color: #FF6347;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.obd-admin-dashboard-user-login-form-signin-btn button:hover {
+    background-color: #fa4120;
+    transition: .2s;
+}
+.obd-admin-dashboard-user-login-form-remember-and-forget-sec span {
+    font-size: 13px;
+    color: #484848;
+    margin-left: 6px;
+}
+.obd-admin-dashboard-user-login-form-remember-and-forget-sec {
+    position: relative;
+}
+.obd-admin-dashboard-user-login-form-remember-and-forget-sec a {
+    position: absolute;
+    right: 0px;
+    color: #a9a9a9;
+    font-size: 12px;
+}
+
+
+.obd-admin-dashboard-user-login-main-box-footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background-color: #5d616d;
+    height: 45px;
+}
+.obd-admin-dashboard-user-login-main-box-footer-content p {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 42px;
+}
+.obd-admin-dashboard-user-login-main-box-footer-content p span {
+    font-weight: 600;
+    color: #ff6347;
+}

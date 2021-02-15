@@ -1,0 +1,204 @@
+
+.obd-top-selling-product-and-new-user-dash-board-main-compont-box {
+    margin-top: 24px;
+    margin-bottom: 20px;
+}
+
+/* Top Selling product Left section Start */
+.obd-top-selling-product-and-new-user-dash-board-top-sel-lft {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 8%);
+}
+/* Top Selling product head color */
+.orponbd-top-sel-lft-color-txtt-hd h4 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-bottom: 3px;
+}
+.orponbd-top-sel-lft-color-left-section-box {
+    background-color: #fff;
+    border-radius: 8px;
+}
+.orponbd-top-sel-lft-color-txtt-hd {
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 4px;
+}
+.orponbd-top-sel-lft-color-txtt-hd {
+    position: relative;
+}
+.flltrr-bbttn-brdr-top-sel-lft {
+    position: absolute;
+    border: 1px solid #FF6347;
+    width: 161px;
+    bottom: -2px;
+}
+/* Top Selling product head color End */
+
+/* Product Name Order Box */
+.obd-top-selling-product-and-product-name-box {
+    background-color: #EFF1F7;
+    border-radius: 8px;
+    position: relative;
+    padding: 7px 10px 7px 10px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+span.obd-top-selling-product-only-order-ab {
+    position: absolute;
+    right: 21px;
+    top: 11px;
+    font-size: 13px;
+    color: #464951;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.obd-top-selling-product-and-product-name-box h4 {
+    font-size: 13px;
+    color: #464951;
+    font-weight: 500;
+    margin-top: 6px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+/* Product Name Order Box */
+
+/* Product item section box Top Selling start */
+.obd-top-selling-product-and-product-product-section-top-sel-single-itm a {
+    text-decoration: none;
+}
+.obd-top-selling-product-and-product-product-section-top-sel-single-itm {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #efeeee;
+    padding-bottom: 9px;
+}
+.obd-top-selling-product-and-product-product-section-top-sel-single-itm:hover {
+    background-color: #f9f9f9;
+    transition: .2s;
+    opacity: .90;
+}
+.obd-top-selling-product-and-product-product-section-top-sel-single-itm-img img {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid #dadada;
+}
+.row.obd-top-selling-product-and-product-produc-sngl-ex-pd .col-md-9 {
+    margin: 0px;
+    padding: 0px;
+}
+.obd-top-selling-product-and-product-product-section-top-sel-single-itm-cont p {
+    font-size: 13px;
+    color: #464951;
+}
+.obd-top-selling-product-and-product-product-section-top-sel-single-itm-cont h5 {
+    font-size: 13px;
+    color: #464951;
+    margin-top: -8px;
+}
+.obd-top-selling-product-and-product-product-section-top-sel-sng-count p {
+    font-size: 13px;
+    color: #464951;
+}
+/* Top Selling product Left section End -------- */
+
+
+/* Product item section box New User Section Start Right ---------------*/
+.obd-top-selling-product-and-new-user-dash-board-neww-user-right {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 8%);
+}
+/* Top New User head color */
+.orponbd-new-user-right-color-txtt-hd h4 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-bottom: 3px;
+}
+.orponbd-new-user-right-color-left-section-box {
+    background-color: #fff;
+    border-radius: 8px;
+}
+.orponbd-new-user-right-color-txtt-hd {
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 4px;
+}
+.orponbd-new-user-right-color-txtt-hd {
+    position: relative;
+}
+.flltrr-bbttn-brdr-new-user-right {
+    position: absolute;
+    border: 1px solid #FF6347;
+    width: 84px;
+    bottom: -2px;
+}
+/* Top New User head color End */
+
+/* Product Name Order Box */
+.obd-new-user-product-and-product-name-box {
+    background-color: #EFF1F7;
+    border-radius: 8px;
+    position: relative;
+    padding: 7px 10px 7px 10px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+span.obd-new-user-product-only-order-ab {
+    position: absolute;
+    right: 21px;
+    top: 11px;
+    font-size: 13px;
+    color: #464951;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.obd-new-user-product-and-product-name-box h4 {
+    font-size: 13px;
+    color: #464951;
+    font-weight: 500;
+    margin-top: 6px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+/* Product Name Order Box */
+
+/* Product item section box Top Selling start */
+.obd-top-selling-product-and-product-product-section-neww-usser-single-itm a {
+    text-decoration: none;
+}
+.obd-top-selling-product-and-product-product-section-neww-usser-single-itm {
+    margin-bottom: 11px;
+    border-bottom: 1px solid #efeeee;
+    padding-bottom: 9px;
+}
+.obd-top-selling-product-and-product-product-section-neww-usser-single-itm:hover {
+    background-color: #f9f9f9;
+    transition: .2s;
+    opacity: .90;
+}
+.obd-top-selling-product-and-product-product-section-neew-user-single-itm-img img {
+    width: 100%;
+    border-radius: 50px;
+    border: 1px solid #dadada;
+}
+.row.obd-new-userr-and-product-produc-sngl-ex-pd .col-md-9 {
+    margin: 0px;
+    padding: 0px;
+}
+.obd-top-selling-product-and-product-product-section-new-uuser-single-itm-cont p {
+    font-size: 13px;
+    color: #464951;
+}
+.obd-top-selling-product-and-product-product-section-new-uuser-single-itm-cont h5 {
+    font-size: 13px;
+    color: #464951;
+    margin-top: -8px;
+}
+.obd-top-selling-product-and-product-product-section-nwsw-user-sng-count p {
+    font-size: 13px;
+    color: #464951;
+}
+/* Product item section box New User Section End Right */

@@ -1,0 +1,9 @@
+.home-page-banner-section-web-verrsioon-box-immg img {
+    width: 100%;
+    border-radius: 8px;
+    height: 185px;
+}
+.home-page-banner-section-web-verrsioon-box-immg img:hover {
+    transition: .2s;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}

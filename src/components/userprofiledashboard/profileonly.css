@@ -1,0 +1,639 @@
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li a span {
+    margin-left: 28px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li a {
+    font-size: 13px;
+    color: #5D616D;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    margin-left: 7px;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover a {
+    color: #fb5032;
+}
+
+.obd-profile-account-section-main-profile-left-menu-sect-itm {
+    margin-top: 12px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+    background-color: #fff;
+    border-radius: 8px;
+    width: 220px;
+    padding: 15px;
+}
+
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li {
+    display: block;
+    padding: 2px 0px 2px 0px;
+    list-style: none;
+    border-bottom: none;
+    margin-bottom: 4px;
+}
+
+/* For My Order */
+.resumeImageHome {
+    background-image: url(../../assets/profile-my-order-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 24px;
+    background-size: 17px;
+}
+
+.activestyleclasshome {
+    background-image: url(../../assets/profile-my-order-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 17px; 
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImageHome {
+    background-image: none;
+}
+span.profile-imggg-none-img img {
+    margin-left: -29px !important;
+    display: none;
+    margin-right: -24px;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img img {
+    display: inline;
+}
+/* img hover */
+/* For My Order */
+
+/* For Wishlist */
+.resumeImageWishlist {
+    background-image: url(../../assets/profile-my-wishlist-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+
+.activestyleclassWishlist {
+    background-image: url(../../assets/profile-my-wishlist-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImageWishlist {
+    background-image: none;
+}
+span.profile-imggg-none-img-wishlst img {
+    margin-left: -28px !important;
+    display: none;
+    margin-right: -24px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    margin-top: -1px;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img-wishlst img {
+    display: inline;
+}
+/* img hover */
+/* For Wishlist */
+
+/* For Preorder */
+.resumeImagePreorder {
+    background-image: url(../../assets/profile-preorders-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+
+.activestyleclassPreorder {
+    background-image: url(../../assets/profile-preorder-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px;
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImagePreorder {
+    background-image: none;
+}
+span.profile-imggg-none-img-wishlst-pre-ordr img {
+    margin-left: -28px !important;
+    display: none;
+    margin-right: -24px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img-wishlst-pre-ordr img {
+    display: inline;
+}
+/* img hover */
+/* For Preorder */
+
+/* For Coupons */
+.resumeImageCoupons {
+    background-image: url(../../assets/profile-coupons-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+
+.activestyleclassCoupons {
+    background-image: url(../../assets/profile-coupon-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px;
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImageCoupons {
+    background-image: none;
+}
+span.profile-imggg-none-img-wishlst-copn img {
+    margin-left: -28px !important;
+    display: none;
+    margin-right: -24px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img-wishlst-copn img {
+    display: inline;
+}
+/* img hover */
+/* For Coupons */
+
+/* For Wallet */
+.resumeImageWallet {
+    background-image: url(../../assets/profile-my-wallet-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px;
+}
+
+.activestyleclassWallet {
+    background-image: url(../../assets/profile-wallet-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImageWallet {
+    background-image: none;
+}
+span.profile-imggg-none-img-wishlst-mm-wlt img {
+    margin-left: -28px !important;
+    display: none;
+    margin-right: -24px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img-wishlst-mm-wlt img {
+    display: inline;
+}
+/* img hover */
+/* For Wallet */
+
+/* For Manage Review */
+.resumeImageManageReview {
+    background-image: url(../../assets/profile-manage-rev-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+
+.activestyleclassManageReview {
+    background-image: url(../../assets/profile-manage-rev-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImageManageReview {
+    background-image: none;
+}
+span.profile-imggg-none-img-wishlst img {
+    margin-left: -28px !important;
+    display: none;
+    margin-right: -24px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img-wishlst img {
+    display: inline;
+}
+/* img hover */
+/* For Manage Review */
+
+/* For Address Book */
+.resumeImageAddreBook {
+    background-image: url(../../assets/profile-address-book-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px;
+}
+
+.activestyleclassAddreBook {
+    background-image: url(../../assets/profile-address-book-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px;
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImageAddreBook {
+    background-image: none;
+}
+span.profile-imggg-none-img-wishlst-addrs img {
+    margin-left: -30px !important;
+    display: none;
+    margin-right: -24px;
+    width: 22px;
+    height: 22px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img-wishlst-addrs img {
+    display: inline;
+}
+/* img hover */
+/* For Address Book */
+
+/* For Account Settings */
+.resumeImageAccSettings {
+    background-image: url(../../assets/profile-setting-black.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+
+.activestyleclassAccSettings {
+    background-image: url(../../assets/profile-setting-red.svg);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 27px;
+    background-size: 18px; 
+}
+/* img hover */
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover .resumeImageAccSettings {
+    background-image: none;
+}
+span.profile-imggg-none-img-wishlst-acc-set img {
+    margin-left: -28px !important;
+    display: none;
+    margin-right: -24px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+}
+.obd-profile-account-section-main-profile-left-menu-sect-itm ul li:hover span.profile-imggg-none-img-wishlst-acc-set img {
+    display: inline;
+}
+/* img hover */
+/* For Account Settings */
+
+/* Scanner Section start */
+.obd-profile-account-section-main-profile-left-menu-sect-itm-scanner-img-bx {
+    margin-top: 12px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+    background-color: #fff;
+    border-radius: 8px;
+    width: 220px;
+    padding: 15px 0px 15px 0px;
+}
+.obd-profile-account-section-main-profile-left-menu-sxc-scanner-img img {
+    width: 60%;
+    margin-top: 10px;
+}
+.obd-profile-account-section-main-profile-left-menu-sxc-scanner-img p {
+    font-size: 14px;
+    color: #FF6347;
+    font-weight: 500;
+    margin-top: 9px;
+    margin-bottom: 0px;
+}
+.obd-profile-account-section-main-profile-left-menu-sxc-scanner-img h4 {
+    font-size: 15px;
+    color: #5D616D;
+    font-weight: 500;
+    background-color: #FAFAFA;
+    height: 40px;
+    line-height: 38px;
+    margin-top: -15px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+/* Scanner Section end */
+
+/* Left Part End ------------------------------------------ */
+
+/* Right Part Start ------------------------------------------ */
+.obd-profile-account-section-main-profile-section-right-main-box {
+    margin-left: 40px;
+}
+
+/* Profile image name part start */
+.obd-profile-account-section-main-profile-section-right-info-box {
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #fff;
+    margin-top: 12px;
+    position: relative;
+}
+.row.obd-profile-account-section-main-profile-section-right-excd-pdd .col-md-3 {
+    padding: 0px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-img img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-nm-cnnt h4 {
+    font-size: 15px;
+    color: #5D616D;
+    font-weight: 500;
+}
+.obd-profile-account-section-main-profile-section-right-prf-nm-cnnt p {
+    font-size: 13px;
+    color: #9A9FAD;
+    margin-top: -3px;
+    margin-bottom: 10px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-nm-cnnt p span {
+    margin-right: 4px;
+    font-size: 15px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-nm-cnnt {
+    margin-top: 14px;
+    margin-left: -10px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-my-wlltx {
+    background-color: #F4F4F5;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #B4BACB;
+}
+.obd-profile-account-section-main-profile-section-right-prf-my-wlltx h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-top: 1px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-my-wlltx p {
+    font-size: 15px;
+    color: #5D616D;
+    margin-top: -2px;
+    margin-bottom: 0px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-my-wlltx p span {
+    color: #FF6347;
+    margin-left: 4px;
+}
+.obd-profile-account-section-main-profile-section-right-prf-coupnxs a {
+    background-color: #fff;
+    border: 1px solid #9A9FAD;
+    font-size: 14px;
+    color: #9A9FAD;
+    border-radius: 20px;
+    padding: 5px;
+    width: 165px;
+    text-align: center;
+    position: absolute;
+    right: 10px;
+    top: 19px;
+    text-decoration: none;
+}
+.obd-profile-account-section-main-profile-section-right-prf-coupnxs a:hover {
+    background-color: #f1f1f1;
+}
+.obd-profile-account-section-main-profile-section-right-prf-coupnxs {
+    position: relative;
+}
+.obd-profile-account-section-main-profile-section-right-prf-coupnxs a span {
+    color: #FF6347;
+}
+/* Profile image name part end */
+
+/* Profile All Order Awaiting Start */
+.obd-profile-account-section-main-profile-section-right-order-ccount-box {
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #FAFAFA;
+    margin-top: -7px;
+}
+.obd-profile-account-section-main-profile-section-right-order-ccnxt {
+    margin-top: 20px;
+    border-right: 1px solid #B4BACB;
+}
+.obd-profile-account-section-main-profile-section-right-order-ccnxt.right-order-ccnxt-brdr-non {
+    border-right: none;
+}
+.obd-profile-account-section-main-profile-section-right-order-ccnxt h4 {
+    font-size: 17px;
+    font-weight: 500;
+}
+.obd-profile-account-section-main-profile-section-right-order-ccnxt p {
+    font-size: 14px;
+    color: #5D616D;
+    margin-bottom: 15px;
+}
+/* Profile All Order Awaiting end ---------------*/
+
+/* /* Profile All Order Main Start */
+.obd-profile-account-section-main-profile-section-right-all-order-content-boxx {
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+    border-radius: 8px;
+    background-color: #ffffff;
+    height: 350px;
+}
+.obd-profile-account-section-main-profile-section-right-all-order-main-bbox {
+    margin-top: 12px;
+}
+.obd-profile-account-section-main-profile-section-right-all-order-content-img-sec img {
+    width: 35%;
+    margin-top: 11%;
+    margin-left: -12px;
+}
+.obd-profile-account-section-main-profile-section-right-all-order-content-img-txt p {
+    font-size: 14px;
+    color: #FFCAC0;
+    margin-top: 8px;
+}
+.row.obd-profile-account-section-main-profile-right-exccv-pxfdd .col-md-7 {
+    padding-right: 0px;
+}
+.obd-profile-account-section-main-profil-right-all-order-content-heedd h4 {
+    background-color: #FAFAFA;
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+    height: 44px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    line-height: 45px;
+    padding-left: 13px;
+}
+
+/* Wishlist and History Box start */
+.obd-profile-account-section-main-profile-section-right-wishlst-his {
+    background: #ffffff;
+    border-radius: 7px;
+    padding: 9px;
+    height: 170px;
+    margin-bottom: 10px;
+}
+.obd-profile-account-section-main-profile-section-right-wishlst-his a {
+    text-decoration: none;
+}
+.obd-profile-account-section-main-profile-section-right-wishlst-his:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+    transition: .2s;
+}
+/* hhhh */
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn p {
+    font-size: 15px;
+    font-weight: 500;
+    color: #5D616D;
+}
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn p {
+    margin-left: 7px;
+}
+.obd-profile-account-section-brdrrx-wish {
+    height: 2px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #FF6347;
+    width: 60px;
+    margin-top: -15px;
+    margin-left: 7px;
+}
+.obd-profile-account-section-brdrrx {
+    height: 2px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #FF6347;
+    width: 52px;
+    margin-top: -15px;
+    margin-left: 7px;
+}
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn {
+    position: relative;
+}
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn {
+    margin-bottom: -15px !important;
+}
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn p span img {
+    width: 40px;
+}
+
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn a {
+    position: absolute;
+    right: 6px;
+    top: 2px;
+    font-size: 13px;
+    color: #B4BACB;
+    font-weight: 500;
+    text-decoration: none;
+}
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn a span i.fa {
+    color: #fff;
+    font-size: 9px;
+    background-color: #B4BACB;
+    width: 13px;
+    height: 13px;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 14px;
+}
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn a:hover {
+    color: #FF6347;
+    transition: .2s;
+}
+.obd-profile-account-section-main-profile-section-right-bb-web-verrsn a:hover i.fa {
+    color: #fff;
+    transition: .2s;
+    background-color: #FF6347;;
+}
+/* hhhh */
+
+.row.obd-profile-main-profile-section-right-delproj-rww-webb-versnn .col-md-2 {
+    padding: 2px;
+}
+.row.obd-profile-main-profile-section-right-delproj-rww-webb-versnn {
+    margin: 0;
+    margin-top: -10px;
+    padding: 4px;
+}
+
+
+.obd-profile-account-section-main-profile-section-right-small-boxc {
+    padding: 8px 0px 8px 0px;
+    border-radius: 8px;
+}
+.obd-profile-account-section-main-profile-section-right-small-boxc.exxxtrrax-box-color {
+    background-color: #DCF7FF;
+}
+.col-md-4.obd-profile-exx-paddng-only-colmm {
+    padding: 3px;
+}
+.obd-profile-account-right-item-web-single-item-img img {
+    width: 100%;
+    height: 104px;
+    border-radius: 8px;
+}
+.row.obd-profile-main-profile-section-right-exx-paddng {
+    padding: 14px 5px 2px 5px;
+}
+
+.row.obd-pro-right-rro-global-shopping-item-bbox {
+    margin-bottom: 6px;
+}
+.obd-profile-account-right-web-single-item-price-txt {
+    background-color: rgba(255, 82, 51,.65);
+    width: 100%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    height: 20px;
+}
+.obd-profile-account-right-web-single-item-price-txt h4 {
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    padding: 2px;
+    line-height: 16px;
+}
+.obd-profile-account-right-item-web-single-item-img {
+    position: relative;
+}
+.obd-profile-account-right-web-single-item-price-txt {
+    position: absolute;
+    bottom: -1px;
+}
+.obd-profile-account-right-item-web-single-item-img img:hover {
+    opacity: .70;
+    transition: .3s;
+}
+/* Wishlist and History Box end */
+
+/* Profile All Order Main end */
+
+/* Right Part End ------------------------------------------ */

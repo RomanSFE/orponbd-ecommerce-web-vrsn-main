@@ -1,0 +1,188 @@
+/* Category Menu section */
+.home-slider-and-category-section-web-main-box {
+    margin-top: 5px;
+}
+
+.home-category-main-home-mega-menu {
+    background-color: #F9FAFF;
+    border-radius: 8px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.home-category-main-home-mega-menu ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 8px;
+}
+.home-category-main-home-mega-menu ul li {
+    display: block;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+}
+.home-category-main-home-mega-menu ul li a {
+    width: 100%;
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    padding-left: 20px;
+    display: block;
+}
+.home-category-main-home-mega-menu ul li:hover {
+    background-color: #F0F3FF;
+    border-bottom: 1px solid #DEE2F2;
+}
+.home-category-main-home-mega-menu ul li:hover a {
+    color: #fb4c2c;
+    font-weight: 600;
+    transition: .2s;
+}
+
+/* Mega Menu Start ------ */
+.home-category-main-home-mega-menu {
+    position: relative;
+    transition: .3s;
+}
+.home-category-main-home-mega-menu li .mega-menu-inner-box-webb-versn {
+    position: absolute;
+    visibility: hidden;
+    transition: .3s;
+}
+
+.home-category-main-home-mega-menu li:hover .mega-menu-inner-box-webb-versn {
+    visibility: visible;
+    transition: .3s;
+}
+.home-category-main-home-mega-menu li:hover .mega-menu-inner-box-webb-versn li a {
+    color: #333 !important;
+    font-weight: 400;
+}
+.home-category-main-home-mega-menu li:hover .mega-menu-inner-box-webb-versn li a {
+    font-size: 12px;
+}
+
+.mega-menu-inner-box-webb-versn {
+    background-color: #fdfdfd;
+    z-index: 999;
+    min-height: 359px;
+    width: 878px;
+    position: absolute;
+    left: 230px;
+    top: 0px;
+    border-radius: 8px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.home-category-main-home-mega-menu {
+    position: relative;
+    width: 220px;
+}
+.home-page-main-slider-section-box {
+    position: relative;
+    margin-left: 32px;
+}
+/* Mega Menu End ------ */
+
+/* New Megamenu Design start */
+.mega-menu-inner-box-webb-versn-inner-box li {
+    margin-bottom: -1px !important;
+    padding: 3px !important;
+}
+.mega-menu-inner-box-webb-versn-inner-box-he h5 {
+    font-size: 14px;
+    margin-left: 21px;
+    margin-top: 12px;
+}
+.mega-menu-inner-box-webb-versn .col-md-3 {
+    padding: 10px 8px 15px 13px;
+}
+.mega-menu-inner-box-webb-versn-inner-box {
+    border-right: 1px solid #f1f1f1;
+    height: 96%;
+}
+.mega-menu-inner-box-webb-versn-inner-box.borderr-nonee-exx {
+    border-right: none;
+}
+.mega-menu-inner-box-webb-versn-inner-box-cat-img img {
+    width: 100%;
+    bottom: 1px;
+    position: absolute;
+    right: 10px;
+}
+/* New Megamenu Design end */
+/* Category Menu section */
+
+/* Slider Carousel section */
+.single-carousel-web-hom-img-part {
+    height: 359px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.single-carousel-web-hom-img-part img {
+    width: 100%;
+    border-radius: 8px;
+    height: 100%;
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+}
+.row.home-slider-and-category-exx-pdd .col-md-9 {
+    margin: 0px;
+    padding-left: 0px;
+}
+.row.home-slider-and-category-exx-pdd .col-md-3 {
+    margin: 0px;
+    padding-right: 7px;
+}
+/* Slider Carousel section */
+
+/* Carousel dott  */
+ul.slick-dots {
+    position: absolute;
+    top: 120px !important;
+} 
+.slick-dots li.slick-active button:before {
+    color: #FF6347 !important;
+}
+.slide-dot-cmm-section-box {
+    border-radius: 15px;
+    overflow: hidden;
+}
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+    margin-right: -10px !important;
+}
+
+/* Ex Color */
+ul.slick-dots {
+    width: 17%;
+    margin-left: 84%;
+    height: 12px;
+    padding-right: 11px;
+    border-radius: 10px;
+    margin-top: 207px;
+}
+ul.slick-dots li {
+    padding-top: 12px;
+    margin-left: 6px;
+    margin-top: -5px !important;
+}
+.slick-dots li button:before {
+    font-family: 'slick';
+    font-size: 10px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    content: '•';
+    text-align: center;
+    opacity: 1;
+    color: rgb(255, 255, 255) !important;
+}
+/* Ex Color */
+/* Carousel dott  */

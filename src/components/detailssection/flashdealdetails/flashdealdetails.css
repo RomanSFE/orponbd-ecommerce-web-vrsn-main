@@ -1,0 +1,207 @@
+/* Top bg Section start */
+.obd-flash-deal-details-products-top-bg-section {
+    background-color: #fff;
+    height: 138px;
+    margin-top: 18px;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+    position: relative;
+}
+.obd-flash-deal-details-products-bg-img img {
+    height: 138px;
+}
+.obd-flash-deal-details-products-hed-txt {
+    position: absolute;
+    top: -105px;
+}
+
+.obd-flash-deal-details-products-hed-txt h3 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF6347;
+}
+
+.obd-flash-deal-details-products-hed-txt p {
+    font-size: 15px;
+    color: #5D616D;
+    margin-top: -2px;
+}
+.obd-flash-deal-details-products-bg-middle img {
+    position: absolute;
+    top: -133px;
+    right: 7px;
+    height: 133px;
+}
+
+/* Time Count Section */
+.obd-best-selling-details-products-right-time {
+    position: absolute;
+    top: -87px;
+    left: 102px;
+}
+.obd-best-selling-details-products-right-time span.time-countt-dayssx-webb {
+    background-color: #FF6347;
+    color: #fff;
+    padding: 5px 3px 5px 3px;
+    border-radius: 5px;
+    font-size: 13px;
+    min-width: 50px;
+    box-shadow: 0 2px 3px rgba(255, 99, 71, .5);
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.obd-best-selling-details-products-right-time span.flash-deat-time-coint-end-in-txt {
+    color: #5D616D;
+    font-size: 16px;
+    margin-right: 6px;
+}
+/* Time Count Section */
+/* Top bg Section end */
+
+/* Tab Section Start */
+.obd-flash-deal-details-tab-sectionnn-main-box {
+    margin-top: 25px;
+}
+.obd-tab-section-flash-deal-detailsonly-tabbss-web {
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+.react-tabs__tab-list {
+    border-bottom: none !important;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.react-tabs__tab--selected {
+    background: #FF6347 !important;
+    border-color: #ff6347  !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    z-index: 999;
+    box-shadow: 0 2px 6px rgba(255, 99, 71, .5);
+    
+}
+.react-tabs__tab {
+    display: inline-block;
+    border: none;
+    border-bottom: none;
+    bottom: -1px;
+    position: relative;
+    list-style: none;
+    padding: 6px 35px !important;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 20px;
+    font-size: 14px;
+    transition: 1s;
+    margin-left: -20px;
+}
+li.react-tabs__tab--selected {
+    padding: 6px 35px !important;
+}
+/* Tab Section End */
+
+/* Product Section start */
+.obd-flash-deal-details-tab-sectionnn-main-box .container {
+    padding: 1px;
+}
+.row.flash-deal-details-com-delproj-rww-webb-versnn .col {
+    padding: 7px;
+}
+
+.row.flash-deal-details-com-delproj-rww-webb-versnn {
+    margin: 0;
+    margin-top: -3px;
+}
+.flash-deal-details-web-ddot-cmm-snnggl-prodct-web-vvesnn:hover {
+    transition: .3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+.flash-deal-details-web-ddot-cmm-snnggl-prodct-web-vvesnn {
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    padding: 2px;
+}
+.flash-deal-details-web-ddot-cmm-snnggl-prodct-web-vvesnn a {
+    text-decoration: none;
+}
+.flash-deal-details-ddot-cmm-snnggl-prodct-web-vvesnn-img img {
+    width: 100%;
+    height: 220px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.flash-deal-details-ddot-cmm-snnggl-prodct-web-vvesnn-img img:hover {
+    opacity: .70;
+    transition: .2s;
+}
+
+.flash-deal-deetls-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    padding: 6px;
+    margin-top: -5px;
+}
+.flash-deal-deetls-web-ddot-cmm-snnggl-prodct-web-vvrsn-ttxt {
+    position: relative;
+}
+.flash-deal-details-com-price-text-boxx {
+    margin-top: 8px;
+}
+.flash-deal-details-com-price-text-boxx h3 {
+    font-size: 18px;
+    color: #5D616D;
+    font-weight: 600;
+}
+.flash-deal-details-com-price-text-boxx h4 {
+    font-size: 14px;
+    color: #B4BACB;
+    font-weight: 600;
+    margin-top: -3px;
+}
+.flash-deal-details-com-price-text-boxx del {
+    color: #B4BACB;
+}
+.obd-flash-deal-details-range-section-and-pro-count-wb {
+    margin-top: 10px;
+}
+.obd-flash-deal-details-range-section-and-pro-count-wb p {
+    font-size: 11px;
+    color: #9A9FAD;
+    margin-bottom: 6px;
+    margin-top: -3px;
+}
+/* Offer Txt */
+.flash-deal-details-webbb-offerrx p {
+    position: absolute;
+    right: 10px;
+    top: 13px;
+    font-size: 12px;
+    background-color: #FFEFEC;
+    border: 1px solid #ffbcb0;
+    border-radius: 6px;
+    color: #FF6347;
+    padding: 0px 5px 0px 5px;
+    font-weight: 500;
+}
+/* Offer Txt */
+/* slider progress */
+.progress-bar {
+    background-color: #ebebeb;
+    height: 7px;
+    width: 77%; 
+}
+.progress-bar span {
+    display: inline-block;
+    height: 100%;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
+    transition: width .4s ease-in-out;    
+}
+.blue span { 
+    /* background-image: linear-gradient(-86deg, #5151e5 0%, #72edf2 100%); */
+    background-color: #FF6347;
+}
+/* slider progress End */
+
+/* Product Section End */

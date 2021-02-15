@@ -1,0 +1,331 @@
+/* Secure text sec start */
+/* Timeline start */
+.my-cart-wv-secure-timeline-section-bbox h4 {
+    color: #5D616D;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.my-cart-wv-secure-timeline-section-bbox {
+    border-bottom: 2px solid #E0E4F0;
+    padding-bottom: 4px;
+    width: 78%;
+}
+.my-cart-wv-secure-timeline-section-bbox {
+    position: relative;
+}
+.my-cart-wv-secure-timeline-section-bordr {
+    position: absolute;
+    border: 2px solid #FF6347;
+    width: 90px;
+    bottom: -3px;
+}
+.my-cart-wv-secure-timeline-section-bordr.proceedto-pay-noww-wvv {
+    position: absolute;
+    border: 2px solid #FF6347;
+    width: 420px;
+    bottom: -3px;
+}
+p.my-cart-shoppingg-cart-icon-tzxt {
+    color: #ff6347 !important;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul li {
+    display: inline-block;
+    width: 25%;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box {
+    width: 99%;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul li .my-cart-shoppingg-cart-icon-bbggg {
+    background-color: #E0E4F0;
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    font-size: 14px;
+    border-radius: 50px;
+    line-height: 37px;
+}
+.my-cart-shoppingg-cart-icon-bbggg.shoppinf-color {
+    background-color: #FF6347!important;
+}
+.my-cart-wv-secure-timeline-section-timeline-sec {
+    position: relative;
+    margin-top: 40px;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box {
+    position: absolute;
+    top: -13px;
+    left: -5px;
+}
+.my-cart-wv-secure-timeline-section-bbox-color-box ul li p {
+    font-size: 14px;
+    margin-left: -120px;
+    margin-top: 13px;
+    color: #B4BACB;
+}
+/* Timeline end */
+/* Secure text sec end ---------------- */
+
+/* Payment Select Box Start */
+.my-cart-wv-shoppingcart-order-payment-method-tabs {
+    margin-top: 30px;
+}
+.my-cart-wv-shoppingcart-order-payment-method-tabs li.react-tabs__tab--selected {
+    background-color: #FFF8F7 !important;
+    border: 1px solid #FF6347;
+    border-radius: 8px !important;
+    transition: .3s !important;
+    padding: 10px !important;
+    width: 22%;
+    height: 95px;
+    box-shadow: unset !important;
+    color: #333 !important;
+    text-align: center !important;
+}
+.my-cart-wv-shoppingcart-order-payment-method-tabs .react-tabs__tab {
+    background-color: #ffffff !important;
+    border: 1px solid #B4BACB;
+    border-radius: 8px !important;
+    transition: .3s !important;
+    padding: 10px !important;
+    width: 22%;
+    height: 95px;
+    box-shadow: unset !important;
+    color: #333 !important;
+    text-align: center !important;
+    margin-left: 0px !important;
+}
+.my-cart-wv-shoppingcart-order-payment-method-tabs li.react-tabs__tab {
+    margin-left: 15px !important; 
+}
+.my-cart-wv-shoppingcart-order-payment-method-logo img {
+    width: 36px;
+    height: 36px;
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+.my-cart-wv-shoppingcart-order-payment-method-logo p {
+    font-size: 13px;
+    color: #5D616D;
+}
+
+.my-cart-wv-order-payment-method-input-field-credit-cardd-main-box {
+    border: 1px solid #ff6347;
+    border-radius: 8px;
+    padding: 15px;
+    padding-left: 25px;
+    margin-left: 15px;
+    margin-right: 35px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+/* Add New Card Box start */
+.my-shopping-cart-proceed-to-payu-input-add-crd-img ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-img ul li {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-img ul li img {
+    width: 42px;
+    height: 42px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-img {
+    margin-top: 15px;
+    margin-bottom: 18px;
+}
+
+
+.my-cart-wv-order-payment-method-input-field-credit-cardd-top-inpt span input {
+    background: none;
+    border-radius: 8px;
+    width: 33%;
+    height: 40px;
+    outline: none;
+    padding: 8px;
+    font-size: 14px;
+    padding-left: 12px;
+    border: 1px solid #f1f1f1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.my-cart-wv-order-payment-method-input-field-credit-cardd-top-inpt img {
+    width: 56px;
+    height: 40px;
+}
+.my-cart-wv-order-payment-method-input-field-credit-cardd-top-inpt span i.fas {
+    color: #ff6347;
+    font-size: 15px;
+}
+.my-cart-wv-order-payment-method-input-field-cvv-crd input {
+    background-color: #FAFAFB;
+    border-radius: 8px;
+    width: 18%;
+    height: 40px;
+    outline: none;
+    padding: 8px;
+    font-size: 14px;
+    padding-left: 12px;
+    border: 1px solid #B4BACB;
+}
+.my-cart-wv-order-payment-method-input-field-cvv-crd {
+    margin-top: 13px;
+}
+.my-cart-wv-order-payment-method-input-field-cvv-crd input::placeholder {
+    color: #B4BACB;
+}
+
+
+.my-shopping-cart-proceed-to-payu-input-add-crd-img ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-img ul li {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-img ul li img {
+    width: 42px;
+    height: 42px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-img {
+    margin-top: 15px;
+    margin-bottom: 18px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt label {
+    display: block;
+    font-size: 12px;
+    color: #5D616D;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt {
+    margin-bottom: 14px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt label span {
+    font-size: 8px;
+    color: #ff6347;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt input {
+    background-color: #FAFAFB;
+    border-radius: 8px;
+    width: 52%;
+    height: 40px;
+    outline: none;
+    padding: 8px;
+    font-size: 13px;
+    padding-left: 12px;
+    border: 1px solid #B4BACB;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-input-flld {
+    margin-top: 22px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt.add-crd-input-immg {
+    position: relative;
+}
+span.add-crd-input-immg-abslt img {
+    position: absolute;
+    left: 329px;
+    width: 37px;
+    height: 37px;
+    top: 28px;
+}
+
+
+.my-shopping-cart-proceed-to-pay-add-newcard-btn {
+    margin-top: 19px;
+}
+.my-shopping-cart-proceed-to-pay-add-newcard-btn button {
+    border: none;
+    outline: none;
+    background: none;
+    color: #9A9FAD;
+    font-size: 13px;
+}
+.my-shopping-cart-proceed-to-pay-add-newcard-btn button:hover {
+    color: #5f5f5f;
+    transition: .2s;
+}
+.my-shopping-cart-proceed-to-pay-add-newcard-btn button span {
+    margin-left: 6px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt-cvv-sec ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt-cvv-sec ul li {
+    display: inline-block;
+    margin-right: 7px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-snglv-inpt-cvv input {
+    background-color: #FAFAFB;
+    border-radius: 8px;
+    width: 127%;
+    height: 40px;
+    outline: none;
+    padding: 8px;
+    font-size: 13px;
+    padding-left: 12px;
+    border: 1px solid #B4BACB;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-snglv-inpt-cvv label {
+    display: block;
+    font-size: 12px;
+    color: #5D616D;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-snglv-inpt-cvv label span {
+    font-size: 8px;
+    color: #ff6347;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-snglv-inpt-cvv.onlycxxvvx input {
+    width: 55% !important;
+    margin-left: 64px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-snglv-inpt-cvv.onlycxxvvx label {
+    margin-left: 66px;
+}
+.my-shopping-cart-proceed-to-payu-save-card-ck {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.my-shopping-cart-proceed-to-payu-save-card-ck span {
+    font-size: 13px;
+    color: #5D616D;
+    margin-left: 2px;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-sngl-inpt input::placeholder {
+    color: #B4BACB;
+}
+.my-shopping-cart-proceed-to-payu-input-add-crd-snglv-inpt-cvv input::placeholder {
+    color: #B4BACB;
+}
+
+
+.my-cart-wv-order-payment-method-input-field-bkasshh input {
+    background-color: #FAFAFB;
+    border-radius: 8px;
+    width: 45%;
+    height: 40px;
+    outline: none;
+    padding: 8px;
+    font-size: 13px;
+    padding-left: 12px;
+    border: 1px solid #B4BACB;
+}
+.my-cart-wv-order-payment-method-input-field-bkasshh input::placeholder {
+    color: #B4BACB;
+}
+/* Add New Card Box end */
+/* Payment Select Box End */

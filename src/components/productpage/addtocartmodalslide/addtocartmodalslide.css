@@ -1,0 +1,93 @@
+.obd-add-to-cart-modal-web-ddot-cmm-snnggl-prodct-img img {
+    width: 100%;
+    height: 167px;
+}
+.row.obd-add-to-cart-modal-box-slider-section-ex-pdd .col-md-3 {
+    padding: 6px;
+}
+.obd-add-to-cart-modal-web-ddot-cmm-snnggl-prodct-ttxt p {
+    font-size: 10px;
+    color: #9A9FAD;
+    margin: 11px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+}
+.obd-add-to-cart-modal-web-ddot-cmm-snnggl-prodct a {
+    text-decoration: none;
+}
+.obd-add-to-cart-modal-web-ddot-cmm-snnggl-prodct-img img:hover {
+    opacity: .7;
+    transition: .2s;
+}
+
+/* Star Rating Start*/
+.obd-add-to-cart-modal-selllng-start-rattng {
+    margin-top: -8px;
+}
+.obd-add-to-cart-modal-selllng-start-rattng .fa-star.checked:before {
+    content: "\f005";
+    color: #FF6347;
+    font-size: 8px;
+}
+.obd-add-to-cart-modal-selllng-start-rattng .fa-star:before {
+    content: "\f005";
+    color: #B4BACB;
+    font-size: 8px;
+}
+span.obd-add-to-cart-modal-star-count-number {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 4px;
+}
+span.obd-add-to-cart-modal-ttotl-star-rat-count {
+    font-size: 8px;
+    color: #9A9FAD;
+    margin-left: 3px;
+}
+
+.obd-add-to-cart-modal-selllng-start-rattng {
+    margin-left: 10px;
+}
+/* Star Rating End -----------*/
+.obd-add-to-cart-modal-web-ddot-cmm-snnggl-prodct-ttxt {
+    position: relative;
+}
+.obd-add-to-cart-modal-ratng-priicice-web-vvrsn h3 {
+    position: absolute;
+    right: 9px;
+    font-size: 11px;
+    top: 33px;
+    color: #FF6347;
+}
+.obd-add-to-cart-modal-box-slider-only-sliderrr-wrp-hedd-sec h4 {
+    font-size: 13px;
+    color: #5D616D;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.obd-add-to-cart-modal-box-slider-only-sliderrr-wrp-all-main-wrap {
+    position: relative;
+}
+.obd-add-to-cart-modal-ratng-modal-dotts-sec {
+    position: absolute;
+    top: -36px;
+    right: 0px;
+}
+.obd-add-to-cart-modal-ratng-modal-dotts-sec button {
+    background: none;
+    border: none;
+}
+.obd-add-to-cart-modal-ratng-modal-dotts-sec button i.fas {
+    font-size: 9px;
+    color: #cecece;
+}
+.obd-add-to-cart-modal-ratng-modal-dotts-sec button i.fas:hover {
+    color: #ff6347;
+}
+.obd-add-to-cart-modal-box-slider-only-sliderrr-wrp-all-main-wrap {
+    height: 307px;
+}
+
+.obd-add-to-cart-itxm-details-modal-body-main-box-left-prodct-sec {
+    margin-top: -16px;
+}
