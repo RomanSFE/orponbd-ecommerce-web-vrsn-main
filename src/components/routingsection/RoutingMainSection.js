@@ -98,6 +98,8 @@ export default class RoutingMainSection extends Component {
                                     {/*Main Dashboard Start*/}
                                     <li><Link to="/dashboard">Dashboard</Link></li>
                                     <li><Link to="/dashboard-orders">Orders</Link></li>
+                                    <li><Link to="/dashboard-invoice-details">Dashboard Orders Details</Link></li>
+                                    <li><Link to="/dashboard-invoice-edit">Dashboard Orders Edit</Link></li>
                                     {/*Main Dashboard end*/}
                                 </ul>
                             </div>

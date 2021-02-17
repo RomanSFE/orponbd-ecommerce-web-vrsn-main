@@ -96,6 +96,8 @@ import CustomerResetPassword from './components/topmenusection/CustomerResetPass
 // Main Dashboard Start
 import Dashboard from './components/dashboard/Dashboard';
 import DashboardOrder from './components/dashboard/orders/DashboardOrder';
+import DshboardInvoiceDetails from './components/dashboard/orders/invoicedetails/DshboardInvoiceDetails';
+import DashboardInvoiceEdit from './components/dashboard/orders/invoiceedit/DashboardInvoiceEdit';
 // Main Dashboard End
 
 
@@ -194,6 +196,8 @@ function App() {
           {/*Main Dashboard Start*/}
           <Route path="/dashboard" component={Dashboard}/>
           <Route path="/dashboard-orders" component={DashboardOrder}/>
+          <Route path="/dashboard-invoice-details" component={DshboardInvoiceDetails}/>
+          <Route path="/dashboard-invoice-edit" component={DashboardInvoiceEdit}/>
           {/*Main Dashboard end*/}
 
         </Switch>
