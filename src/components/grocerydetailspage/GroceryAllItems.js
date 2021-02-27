@@ -16,8 +16,8 @@ export default class GroceryAllItems extends Component {
     
 
     // View More Modal
-    constructor(props, context) {
-		super(props, context);
+    constructor(props) {
+		super(props);
 
 		this.handleShow = this.handleShow.bind(this);
 		this.handleClose = this.handleClose.bind(this);

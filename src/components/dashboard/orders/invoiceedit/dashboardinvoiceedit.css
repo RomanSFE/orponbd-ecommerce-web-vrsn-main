@@ -196,6 +196,84 @@ span.obd-all-order-details-editt-dashboard-main-section-orders-det-innr-right-in
 /* Invoice End --- */
 /* Order Details Tab end -------*/
 
+/* Order Status Tab start -------*/
+.obd-all-order-details-editt-dashboard-main-section-orders-det-innr-lft-statusz {
+    margin-top: 16px;
+}
+
+/* Status head color start */
+.orponbd-order-summary-edit-status-bx-color-section-box {
+    background-color: #fff;
+    border-radius: 8px;
+}
+.orponbd-order-summary-edit-status-bx-color-section-box {
+    position: relative;
+}
+.obd-all-order-dettls-editdash-invoice-status-head-color-box-sec {
+    margin-bottom: 17px;
+    margin-top: 5px;
+}
+.orponbd-order-summary-edit-statuxs-bx-txtt-hd h4 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-bottom: 14px;
+}
+.orponbd-order-summary-edit-statuxs-bx-txtt-hd {
+    padding-bottom: 4px;
+}
+.orponbd-order-summary-edit-statuxs-bx-txtt-hd {
+    position: relative;
+}
+/* Status head color End */
+/* Status - Pending and Update Button start */
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab ul li {
+    display: inline-block;
+    margin-left: 18px;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab ul li button {
+    background-color: #FF6347;
+    font-size: 13px;
+    border-radius: 6px;
+    padding: 5px 16px 5px 16px;
+    outline: none;
+    color: #ff6347;
+    border: none;
+    color: #fff;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab select {
+    background-color: #F7F8FB;
+    padding: 4px 10px 3px 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #8c8c8c;
+    border: 1px solid #d2d2d2;
+    border-radius: 6px;
+    outline: none;
+    width: 170px;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab ul li button:hover {
+    transition: .2s;
+    background-color: #fd401e;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab ul li button span {
+    margin-right: 3px;
+    font-size: 10px;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab {
+    position: absolute;
+    right: 0px;
+    top: -2px;
+}
+/* Status - Pending and Update Button end ----------*/
+
+/* Order Status Tab end -------*/
+
 /* Tab Section End ---------- */
 
 /* Customer Details Section Start */
@@ -292,7 +370,75 @@ span.obd-all-order-details-editt-dashboard-main-section-orders-det-innr-right-cu
 
 /* Customer Details Section End --------- */
 
-/* Order Summary Table start */
+/* Order Summary Table start ---------------------- */
+
+/* Recent head color start */
+.orponbd-order-summary-edit-ordr-bx-txtt-hd h4 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-bottom: 14px;
+}
+.orponbd-order-summary-edit-ordr-bx-color-section-box {
+    background-color: #fff;
+    border-radius: 8px;
+}
+.obd-all-order-dettls-editdash-invoice-summary-head-color-box-sec {
+    margin-bottom: 17px;
+    margin-top: 5px;
+}
+.orponbd-order-summary-edit-ordr-bx-color-section-box {
+    position: relative;
+}
+.orponbd-order-summary-edit-ordr-bx-txtt-hd{
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 4px;
+}
+.orponbd-order-summary-edit-ordr-bx-txtt-hd {
+    position: relative;
+}
+.flltrr-bbttn-brdr-order-summary-edit-ordr {
+    position: absolute;
+    border: 1px solid #FF6347;
+    width: 105px;
+    bottom: -2px;
+}
+/* REcent head color End */
+/* Recent Order Add Item Button start */
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-add-item-ab ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-add-item-ab ul li {
+    display: inline-block;
+    margin-left: 18px;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-add-item-ab ul li button {
+    background-color: #FF6347;
+    font-size: 13px;
+    border-radius: 6px;
+    padding: 5px 16px 4px 16px;
+    outline: none;
+    color: #ff6347;
+    border: none;
+    color: #fff;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-add-item-ab ul li button:hover {
+    transition: .2s;
+    background-color: #fd401e;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-add-item-ab ul li button span {
+    margin-right: 3px;
+    font-size: 10px;
+}
+.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-add-item-ab {
+    position: absolute;
+    right: 0px;
+    top: -2px;
+}
+/* Recent Order Add Item Button end ----------*/
+
 .obd-all-order-details-editt-dashboard-main-section-orders-summary-main-box {
     background-color: #fff;
     border-radius: 12px;
@@ -335,6 +481,9 @@ span.obd-all-order-details-editt-dashboard-main-section-orders-det-innr-right-cu
     color: #5D616D;
     font-weight: 400;
     line-height: 55px;
+}
+.obd-all-order-details-editt-dashboard-main-section-orders-summary-table-sec.statuss table tbody tr td {
+    line-height: 40px;
 }
 
 .obd-all-order-dashboard-main-section-orders-summary-table-sec-item select {
@@ -380,4 +529,67 @@ span.obd-all-order-details-editt-dashboard-main-section-orders-det-innr-right-cu
     margin-top: 11px;
     margin-left: 30px;
 }
+
+/* Total price delete and setting section */
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item-total-amnt-and-settng ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item-total-amnt-and-settng ul li {
+    display: inline-block;
+}
+.obd-all-order-orders-summary-table-sec-item-total-amnt-and-settng-only-box {
+    margin-left: 38px;
+    margin-right: -37px;
+}
+.obd-all-order-orders-summary-table-sec-item-total-delete-only-icn {
+    margin-bottom: -28px;
+    margin-top: -15px;
+}
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item-total-amnt-and-settng {
+    margin-bottom: -25px;
+}
+li.obd-all-order-dashboard-main-section-orders-summary-only-prices {
+    position: relative;
+    right: -16px;
+    top: -12px;
+}
+.obd-all-order-orders-summary-table-sec-item-total-setting-only-icn {
+    margin-bottom: -4px;
+}
+
+.obd-all-order-orders-summary-table-sec-item-total-delete-only-icn button {
+    background:none;
+    border: none;
+    outline: none;
+    padding: 1px;
+}
+.obd-all-order-orders-summary-table-sec-item-total-delete-only-icn button span i.fas {
+    color: #cbccd0;
+    font-size: 12px;
+    margin-bottom: -5px;
+}
+.obd-all-order-orders-summary-table-sec-item-total-delete-only-icn button span i.fas:hover {
+    color: #fa957c;
+    transition: .2s;
+}
+.obd-all-order-orders-summary-table-sec-item-total-setting-only-icn button {
+    background-color: #EFF1F7;
+    border: 1px solid #cccccc;
+    outline: none;
+    border-radius: 8px;
+    height: 25px;
+    line-height: 21px;
+    font-size: 11px;
+    color: #C7C8CD;
+    padding: 2px 6px 2px 6px;
+}
+.obd-all-order-orders-summary-table-sec-item-total-setting-only-icn button:hover {
+    background-color: #cbd0e0;
+    transition: .2s;
+    color: #7b7b7b;
+}
+/* Total price delete and setting section */
+
 /* Order Summary Table end */

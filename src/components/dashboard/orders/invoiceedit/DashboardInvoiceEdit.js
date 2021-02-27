@@ -5,7 +5,31 @@ import DashboardTopBar from '../../dashboardtopbar/DashboardTopBar'
 import './dashboardinvoiceedit.css'
 import { Tabs, Tab } from 'react-bootstrap'
 
+import Modal from 'react-bootstrap/Modal';
+
 export default class DashboardInvoiceEdit extends Component {
+
+    // View More Modal
+    constructor(props) {
+		super(props);
+
+		this.handleShow = this.handleShow.bind(this);
+		this.handleClose = this.handleClose.bind(this);
+
+		this.state = {
+			show: false,
+		};
+	}
+
+	handleClose() {
+		this.setState({ show: false });
+	}
+
+	handleShow() {
+		this.setState({ show: true });
+	}
+    // View More Modal
+
     render() {
         return (
             <>
@@ -163,7 +187,96 @@ export default class DashboardInvoiceEdit extends Component {
                                                     </div>
                                                 </Tab>
                                                 <Tab eventKey="dasstatus" title="Status">
-                                                    order details 2
+                                                    <div className="obd-all-order-details-editt-dashboard-main-section-orders-det-innr-lft-statusz">
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-dettls-editdash-invoice-status-head-color-box-sec">
+                                                            <div className="orponbd-order-summary-edit-status-bx-color-section-box">
+                                                                <div className="orponbd-order-summary-edit-status-color-sectionn-paddv">
+                                                                    <div className="orponbd-order-summary-edit-statuxs-bx-txtt-hd">
+                                                                        <h4>Status</h4>
+                                                                    </div>
+                                                                </div>
+                                                                <div className="orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab">
+                                                                    <ul>
+                                                                        <li>
+                                                                            <select>
+                                                                                <option value="" selected>Pending</option>
+                                                                                <option value="">Pending 1</option>
+                                                                                <option value="">Pending 2</option>
+                                                                                <option value="">Pending 3</option>
+                                                                            </select>
+                                                                        </li>
+                                                                        <li><button>Update</button></li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-details-editt-dashboard-main-section-orders-summary-table-sec statuss">
+                                                            <table class="table table-bordered">
+                                                                <thead style={{borderRadius: '8px'}}>
+                                                                    <tr>
+                                                                        <th style={{borderTopLeftRadius: '8px',borderBottomLeftRadius: '8px',textAlign: 'left', width:"25%"}} scope="col col-6">Date</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">Status</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">User</th>
+                                                                        <th style={{borderTopRightRadius: '8px',borderBottomRightRadius: '8px',textAlign: 'left'}} scope="col col-6">Comments</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Pending
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                User Name
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Comments ...
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Pending
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                User Name
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Comments ...
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+                                                                    
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
                                                 </Tab>
                                                 <Tab eventKey="daspaymntdet" title="Payment Details">
                                                     order details 3
@@ -230,6 +343,23 @@ export default class DashboardInvoiceEdit extends Component {
 
                                  {/* Order Summary Start ----------------*/}
                                  <div className="obd-all-order-details-editt-dashboard-main-section-orders-summary-main-box">
+                                     {/* Head */}
+                                     <div className="obd-all-order-dettls-editdash-invoice-summary-head-color-box-sec">
+                                        <div className="orponbd-order-summary-edit-ordr-bx-color-section-box">
+                                            <div className="orponbd-order-summary-edit-ordr-color-sectionn-paddv">
+                                                <div className="orponbd-order-summary-edit-ordr-bx-txtt-hd">
+                                                    <h4>Order Summary</h4>
+                                                    <div className="flltrr-bbttn-brdr-order-summary-edit-ordr"></div>
+                                                </div>
+                                            </div>
+                                            <div className="orponbd-order-summary-edit-ordr-color-section-box-right-seeall-add-item-ab">
+                                                <ul>
+                                                    <li><button><span><i class="fas fa-plus"></i></span> Add Item</button></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                     </div>
+                                     {/* Head */}
                                      <div className="obd-all-order-details-editt-dashboard-main-section-orders-summary-table-sec">
                                         <table class="table table-bordered">
                                             <thead style={{borderRadius: '8px'}}>
@@ -285,7 +415,36 @@ export default class DashboardInvoiceEdit extends Component {
                                                             <h4>12</h4>
                                                         </div>
                                                     </td>
-                                                    <td style={{color: '#FF6347', fontWeight: '500'}}><span>৳ </span>750</td>
+                                                    <td>
+                                                        <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item-total-amnt-and-settng">
+                                                            <ul>
+                                                                <li className="obd-all-order-dashboard-main-section-orders-summary-only-prices" style={{color: '#FF6347', fontWeight: '500'}}><p><span>৳ </span>750</p></li>
+                                                                <li>
+                                                                    <div className="obd-all-order-orders-summary-table-sec-item-total-amnt-and-settng-only-box">
+                                                                        <div className="obd-all-order-orders-summary-table-sec-item-total-delete-only-icn">
+                                                                            <button><span><i class="fas fa-times"></i></span></button>
+                                                                        </div>
+                                                                        <div className="obd-all-order-orders-summary-table-sec-item-total-setting-only-icn">
+                                                                            {/* Modal Start */}
+                                                                            <button onClick={this.handleShow}>
+                                                                                <i class="fas fa-cog"></i>
+                                                                            </button>
+                                                                                <Modal show={this.state.show} onHide={this.handleClose}>
+                                                                                    <Modal.Header closeButton>
+                                                                                        {/* <Modal.Title>Modal heading</Modal.Title> */}
+                                                                                    </Modal.Header>
+
+                                                                                    <Modal.Body>
+                                                                                        Modal Body
+                                                                                    </Modal.Body>
+                                                                                </Modal>
+                                                                                {/* Modal End*/}
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </td>
                                                 </tr>
                                                 {/* Single Item End */}
                                                 {/* single Item start */}
@@ -330,7 +489,36 @@ export default class DashboardInvoiceEdit extends Component {
                                                             <h4>12</h4>
                                                         </div>
                                                     </td>
-                                                    <td style={{color: '#FF6347', fontWeight: '500'}}><span>৳ </span>750</td>
+                                                    <td>
+                                                        <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item-total-amnt-and-settng">
+                                                            <ul>
+                                                                <li className="obd-all-order-dashboard-main-section-orders-summary-only-prices" style={{color: '#FF6347', fontWeight: '500'}}><p><span>৳ </span>750</p></li>
+                                                                <li>
+                                                                    <div className="obd-all-order-orders-summary-table-sec-item-total-amnt-and-settng-only-box">
+                                                                        <div className="obd-all-order-orders-summary-table-sec-item-total-delete-only-icn">
+                                                                            <button><span><i class="fas fa-times"></i></span></button>
+                                                                        </div>
+                                                                        <div className="obd-all-order-orders-summary-table-sec-item-total-setting-only-icn">
+                                                                             {/* Modal Start */}
+                                                                             <button onClick={this.handleShow}>
+                                                                                <i class="fas fa-cog"></i>
+                                                                            </button>
+                                                                                <Modal show={this.state.show} onHide={this.handleClose}>
+                                                                                    <Modal.Header closeButton>
+                                                                                        {/* <Modal.Title>Modal heading</Modal.Title> */}
+                                                                                    </Modal.Header>
+
+                                                                                    <Modal.Body>
+                                                                                        Modal Body 2
+                                                                                    </Modal.Body>
+                                                                                </Modal>
+                                                                                {/* Modal End*/}
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </td>
                                                 </tr>
                                                 {/* Single Item End */}
                                                 
