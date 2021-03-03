@@ -214,10 +214,10 @@ span.obd-all-order-details-editt-dashboard-main-section-orders-det-innr-right-in
     margin-top: 5px;
 }
 .orponbd-order-summary-edit-statuxs-bx-txtt-hd h4 {
-    font-size: 16px;
-    font-weight: 500;
-    color: #5D616D;
     margin-bottom: 14px;
+    font-size: 16px;
+    color: #464951;
+    font-weight: 600;
 }
 .orponbd-order-summary-edit-statuxs-bx-txtt-hd {
     padding-bottom: 4px;
@@ -273,6 +273,62 @@ span.obd-all-order-details-editt-dashboard-main-section-orders-det-innr-right-in
 /* Status - Pending and Update Button end ----------*/
 
 /* Order Status Tab end -------*/
+
+/* Order Payment Details Tab Start -------*/
+li.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-payment-dtls button {
+    background-color: #F7F8FB !important;
+    font-size: 13px;
+    border-radius: 6px;
+    padding: 5px 16px 5px 16px;
+    outline: none;
+    border: none;
+    color: #464951 !important;
+    border: 1px solid #dadada !important;
+}
+li.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-payment-dtls button span {
+    margin-right: 6px !important;
+    font-size: 11px !important;
+}
+li.orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-payment-dtls button:hover {
+    background-color: #e8e7e7 !important;
+    transition: .2s;
+}
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item.payment-dtls-stts button {
+    border: none;
+    background-color: #52E378;
+    color: #fff;
+    border-radius: 15px;
+    border-top-left-radius: 0px;
+    padding: 2px 9px 2px 9px;
+    height: 24px;
+    line-height: 20px;
+}
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item.payment-dtls-stts button:hover {
+    background-color: #25d854;
+    transition: .2s;
+}
+/* Order Payment Details Tab End -------*/
+
+/* Order Refund Tab Start -------*/
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item.refund-pdf-prients button {
+    border: none;
+    background: none;
+    color: #5D616D;
+    border-top-left-radius: 0px;
+    padding: 2px 3px 2px 3px;
+}
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item.refund-pdf-prients button span {
+    margin-right: 2px;
+    color: #b5b5b5;
+}
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item.refund-pdf-prients button:hover {
+    color: #f76f56;
+    transition: .2s;
+}
+.obd-all-order-dashboard-main-section-orders-summary-table-sec-item.refund-pdf-prients button:hover span {
+    color: #f76f56;
+}
+/* Order Refund Tab End -------*/
 
 /* Tab Section End ---------- */
 

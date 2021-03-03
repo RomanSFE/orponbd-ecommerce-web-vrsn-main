@@ -279,13 +279,292 @@ export default class DashboardInvoiceEdit extends Component {
                                                     </div>
                                                 </Tab>
                                                 <Tab eventKey="daspaymntdet" title="Payment Details">
-                                                    order details 3
+                                                    <div className="obd-all-order-details-editt-dashboard-main-section-orders-det-innr-lft-statusz">
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-dettls-editdash-invoice-status-head-color-box-sec">
+                                                            <div className="orponbd-order-summary-edit-status-bx-color-section-box">
+                                                                <div className="orponbd-order-summary-edit-status-color-sectionn-paddv">
+                                                                    <div className="orponbd-order-summary-edit-statuxs-bx-txtt-hd">
+                                                                        <h4>Payment Details</h4>
+                                                                    </div>
+                                                                </div>
+                                                                <div className="orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab">
+                                                                    <ul>
+                                                                        <li className="orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-payment-dtls">
+                                                                            <button><span><i class="far fa-paper-plane"></i></span>Send Invoice</button>
+                                                                        </li>
+                                                                        <li><button><span><i className="fas fa-plus"></i></span> Add Payment</button></li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-details-editt-dashboard-main-section-orders-summary-table-sec statuss">
+                                                            <table class="table table-bordered">
+                                                                <thead style={{borderRadius: '8px'}}>
+                                                                    <tr>
+                                                                        <th style={{borderTopLeftRadius: '8px',borderBottomLeftRadius: '8px',textAlign: 'left', width:"25%"}} scope="col col-6">Date</th>
+                                                                        <th style={{textAlign: 'center',}} scope="col col-6">Transaction id</th>
+                                                                        <th style={{textAlign: 'center',}} scope="col col-6">Amount</th>
+                                                                        <th style={{textAlign: 'center',}} scope="col col-6">Status</th>
+                                                                        <th style={{borderTopRightRadius: '8px',borderBottomRightRadius: '8px',textAlign: 'center'}} scope="col col-6">Action</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                #25478
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                ৳ 700
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item payment-dtls-stts">
+                                                                                <button>Delivered</button>
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Action
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                #25478
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                ৳ 700
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item payment-dtls-stts">
+                                                                                <button>Delivered</button>
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'center'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Action
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+                                                                    
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
                                                 </Tab>
                                                 <Tab eventKey="dasrefund" title="Refunds">
-                                                    order details 4
+                                                    <div className="obd-all-order-details-editt-dashboard-main-section-orders-det-innr-lft-statusz">
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-dettls-editdash-invoice-status-head-color-box-sec">
+                                                            <div className="orponbd-order-summary-edit-status-bx-color-section-box">
+                                                                <div className="orponbd-order-summary-edit-status-color-sectionn-paddv">
+                                                                    <div className="orponbd-order-summary-edit-statuxs-bx-txtt-hd">
+                                                                        <h4>Refunds</h4>
+                                                                    </div>
+                                                                </div>
+                                                                <div className="orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab">
+                                                                    <ul>
+                                                                        <li><button><span><i className="fas fa-plus"></i></span> Add New</button></li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-details-editt-dashboard-main-section-orders-summary-table-sec statuss">
+                                                            <table class="table table-bordered">
+                                                                <thead style={{borderRadius: '8px'}}>
+                                                                    <tr>
+                                                                        <th style={{borderTopLeftRadius: '8px',borderBottomLeftRadius: '8px',textAlign: 'left', width:"25%"}} scope="col col-6">Date</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">Return</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">Amount</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">User</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">Attachment</th>
+                                                                        <th style={{borderTopRightRadius: '8px',borderBottomRightRadius: '8px',textAlign: 'left'}} scope="col col-6">Comments</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                21354
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                ৳ 700
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                User Name
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item refund-pdf-prients">
+                                                                                <button><span><i class="fas fa-print"></i></span> filename.pdf</button>
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Comments ...
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                21354
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                ৳ 700
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                User Name
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item refund-pdf-prients">
+                                                                                <button><span><i class="fas fa-print"></i></span> filename.pdf</button>
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Comments ...
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+                                                                    
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
                                                 </Tab>
                                                 <Tab eventKey="dascomments" title="Comments">
-                                                    order details 5
+                                                    <div className="obd-all-order-details-editt-dashboard-main-section-orders-det-innr-lft-statusz">
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-dettls-editdash-invoice-status-head-color-box-sec">
+                                                            <div className="orponbd-order-summary-edit-status-bx-color-section-box">
+                                                                <div className="orponbd-order-summary-edit-status-color-sectionn-paddv">
+                                                                    <div className="orponbd-order-summary-edit-statuxs-bx-txtt-hd">
+                                                                        <h4>Comments</h4>
+                                                                    </div>
+                                                                </div>
+                                                                <div className="orponbd-order-summary-edit-ordr-color-section-box-right-seeall-statuus-ab">
+                                                                    <ul>
+                                                                        <li><button><span><i className="fas fa-plus"></i></span> Add New</button></li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        {/* Head */}
+                                                        <div className="obd-all-order-details-editt-dashboard-main-section-orders-summary-table-sec statuss">
+                                                            <table class="table table-bordered">
+                                                                <thead style={{borderRadius: '8px'}}>
+                                                                    <tr>
+                                                                        <th style={{borderTopLeftRadius: '8px',borderBottomLeftRadius: '8px',textAlign: 'left', width:"25%"}} scope="col col-6">Date</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">User</th>
+                                                                        <th style={{textAlign: 'left',}} scope="col col-6">Attachment</th>
+                                                                        <th style={{borderTopRightRadius: '8px',borderBottomRightRadius: '8px',textAlign: 'left'}} scope="col col-6">Comments</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                User Name
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item refund-pdf-prients">
+                                                                                <button><span><i class="fas fa-print"></i></span> filename.pdf</button>
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Comments ...
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+                                                                    
+                                                                    {/* single Item start */}
+                                                                    <tr>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Jan 20, 2021, 10:30 AM
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                User Name
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item refund-pdf-prients">
+                                                                                <button><span><i class="fas fa-print"></i></span> filename.pdf</button>
+                                                                            </div>
+                                                                        </td>
+                                                                        <td style={{textAlign: 'left'}}>
+                                                                            <div className="obd-all-order-dashboard-main-section-orders-summary-table-sec-item">
+                                                                                Comments ...
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    {/* Single Item End */}
+                                                                    
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
                                                 </Tab>
                                              </Tabs>
                                              </div>
